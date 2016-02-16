@@ -1,0 +1,25 @@
+C:\Users\hp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\VerA.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmApertura.resources
+C:\Users\hp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\VerA.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\hp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\NLog.config
+C:\Users\hp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\NLog.dll
+C:\Users\hp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\NLog.Windows.Forms.dll
+C:\Users\hp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\NLog.xml
+C:\Users\hp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Lavoro\CORSI\Tesi\TesiDeGennaro\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Lavoro\CORSI\Tesi\TesiDeGennaro\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Lavoro\CORSI\Tesi\TesiDeGennaro\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Lavoro\CORSI\Tesi\TesiDeGennaro\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\NLog.config
+C:\Lavoro\CORSI\Tesi\TesiDeGennaro\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Lavoro\CORSI\Tesi\TesiDeGennaro\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Lavoro\CORSI\Tesi\TesiDeGennaro\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\NLog.dll
+C:\Lavoro\CORSI\Tesi\TesiDeGennaro\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\NLog.xml
+C:\Lavoro\CORSI\Tesi\TesiDeGennaro\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\VerA.csprojResolveAssemblyReference.cache
+C:\Lavoro\CORSI\Tesi\TesiDeGennaro\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmApertura.resources
+C:\Lavoro\CORSI\Tesi\TesiDeGennaro\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Lavoro\CORSI\Tesi\TesiDeGennaro\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\VerA.csproj.GenerateResource.Cache

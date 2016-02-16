@@ -1,0 +1,9 @@
+C:\Users\hp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\hp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\tesi.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmApertura.resources
+C:\Users\hp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\tesi.csproj.GenerateResource.Cache

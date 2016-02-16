@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\hp\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\hp\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\hp\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmApertura.resources
+c:\users\hp\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\hp\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb

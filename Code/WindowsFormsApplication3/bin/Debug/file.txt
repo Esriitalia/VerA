@@ -1,0 +1,2099 @@
+15:02:21|Info|Nodo: /feed/title
+15:02:21|Info|Nessun errore
+15:02:21|Error|Errore relativo al nodo: /feed/title
+15:02:21|Error|Tipo di Errore: Nessun errore
+15:02:21|Info|Nodo: /feed/subtitle
+15:02:21|Info|Nessun errore
+15:02:21|Error|Errore relativo al nodo: /feed/subtitle
+15:02:21|Error|Tipo di Errore: Nessun errore
+15:02:23|Info|Nodo: /feed/link[@rel='describedby']
+15:02:23|Info|Nessun errore
+15:02:23|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+15:02:23|Error|Tipo di Errore: Nessun errore
+15:02:23|Info|Nodo: /feed/link[@rel='self']
+15:02:23|Info|Nessun errore
+15:02:23|Error|Errore relativo al nodo: /feed/link[@rel='self']
+15:02:23|Error|Tipo di Errore: Nessun errore
+15:02:23|Info|Nodo: /feed/link[@rel='search']
+15:02:23|Info|Nessun errore
+15:02:23|Error|Errore relativo al nodo: /feed/link[@rel='search']
+15:02:23|Error|Tipo di Errore: Nessun errore
+15:02:23|Info|Nodo: /feed/link[@rel='alternate']
+15:02:23|Info|Nessun errore
+15:02:24|Info|Nodo: /feed/link[@rel='alternate']
+15:02:24|Info|Nessun errore
+15:02:24|Info|Nodo: /feed/link[@rel='alternate']
+15:02:24|Info|Nessun errore
+15:02:24|Error|Errore relativo al nodo: /feed/link[@rel='alternate']
+15:02:24|Error|Tipo di Errore: Nessun errore
+15:02:24|Error|Errore relativo al nodo: /feed/link[@rel='alternate']
+15:02:24|Error|Tipo di Errore: Nessun errore
+15:02:24|Error|Errore relativo al nodo: /feed/link[@rel='alternate']
+15:02:24|Error|Tipo di Errore: Nessun errore
+15:02:24|Info|Nodo: /feed/id
+15:02:24|Info|Nessun errore
+15:02:24|Error|Errore relativo al nodo: /feed/id
+15:02:24|Error|Tipo di Errore: Nessun errore
+15:02:24|Info|Nodo: /feed/rights
+15:02:24|Info|Nessun errore
+15:02:24|Error|Errore relativo al nodo: /feed/rights
+15:02:24|Error|Tipo di Errore: Nessun errore
+15:02:24|Info|Nodo: /feed/author/name
+15:02:24|Info|Nessun errore
+15:02:24|Info|Nodo: /feed/author/email
+15:02:24|Info|Nessun errore
+15:02:24|Error|Errore relativo al nodo: nodo numero: 1 /feed/author/name
+15:02:24|Error|Tipo di Errore: Nessun errore
+15:02:24|Error|Errore relativo al nodo: nodo numero: 1 /feed/author/email
+15:02:24|Error|Tipo di Errore: Nessun errore
+15:02:24|Info|Nodo: /feed/updated
+15:02:24|Info|Nessun errore
+15:02:24|Error|Errore relativo al nodo: /feed/updated
+15:02:24|Error|Tipo di Errore: Nessun errore
+15:02:24|Info|Errori relativi al tag entry numero 1
+
+15:02:24|Info|Nodo: /feed/entry[1]/title
+15:02:24|Info|Nessun errore
+15:02:24|Info|Nodo: /feed/entry[1]/link[@rel='describedby']
+15:02:24|Info|Nessun errore
+15:02:24|Info|0
+15:02:24|Error|Errore relativo al nodo: /feed/entry/link[@rel='alternate']
+15:02:24|Error|Tipo di Errore: Il nodo non è unico
+15:02:24|Error|Livello di errore: 3
+15:02:24|Info|Nodo: /feed/entry/id
+15:02:24|Info|Nessun errore
+15:02:24|Info|Nodo: /feed/entry/rights
+15:02:24|Info|Nessun errore
+15:02:24|Info|Nodo: /feed/entry/summary
+15:02:24|Info|Nessun errore
+15:02:24|Info|Nodo: /feed/entry/author/name
+15:02:24|Info|Nessun errore
+15:02:24|Info|Nodo: /feed/entry/author/email
+15:02:24|Info|Nessun errore
+15:02:24|Info|Nodo: /feed/entry[1]/updated
+15:02:24|Info|Nessun errore
+15:02:25|Info|Nodo: /feed/entry[1]/category
+15:02:25|Info|Nessun errore
+15:02:25|Info|Nodo: /feed/entry[1]/category
+15:02:25|Info|Nessun errore
+15:02:25|Info|Errori relativi al tag entry numero 2
+
+15:02:25|Info|Nodo: /feed/entry[2]/title
+15:02:25|Info|Nessun errore
+15:02:31|Info|Nodo: /feed/entry[2]/link[@rel='describedby']
+15:02:31|Info|Nessun errore
+15:02:31|Info|0
+15:02:31|Error|Errore relativo al nodo: /feed/entry/link[@rel='alternate']
+15:02:31|Error|Tipo di Errore: Il nodo non è unico
+15:02:31|Error|Livello di errore: 3
+15:02:31|Info|Nodo: /feed/entry/id
+15:02:31|Info|Nessun errore
+15:02:31|Info|Nodo: /feed/entry/rights
+15:02:31|Info|Nessun errore
+15:02:31|Info|Nodo: /feed/entry/summary
+15:02:31|Info|Nessun errore
+15:02:31|Info|Nodo: /feed/entry/author/name
+15:02:31|Info|Nessun errore
+15:02:31|Info|Nodo: /feed/entry/author/email
+15:02:31|Info|Nessun errore
+15:02:31|Info|Nodo: /feed/entry[2]/updated
+15:02:31|Info|Nessun errore
+15:02:31|Info|Nodo: /feed/entry[2]/category
+15:02:31|Info|Nessun errore
+15:02:32|Info|Nodo: /feed/entry[2]/category
+15:02:32|Info|Nessun errore
+15:02:32|Error|Errore relativo al nodo: entry numero: 1 /feed/entry/title
+15:02:32|Error|Tipo di Errore: Nessun errore
+15:02:32|Error|Errore relativo al nodo: entry numero: 1 /feed/entry/link[@rel='describedby']
+15:02:32|Error|Tipo di Errore: Nessun errore
+15:02:32|Error|Errore relativo al nodo: entry numero: 1 /feed/entry[1]/link[@rel='alternate']
+15:02:32|Error|Tipo di Errore: Il nodo non è unico
+15:02:32|Error|Errore relativo al nodo: entry numero: 1 /feed/entry[1]/id
+15:02:32|Error|Tipo di Errore: Nessun errore
+15:02:32|Error|Errore relativo al nodo: entry numero: 1 /feed/entry[1]/rights
+15:02:32|Error|Tipo di Errore: Nessun errore
+15:02:32|Error|Errore relativo al nodo: entry numero: 1 /feed/entry[1]/summary
+15:02:32|Error|Tipo di Errore: Nessun errore
+15:02:32|Error|Errore relativo al nodo: nodo numero: 1 /feed/entry/author/name
+15:02:32|Error|Tipo di Errore: Nessun errore
+15:02:32|Error|Errore relativo al nodo: nodo numero: 1 /feed/entry/author/email
+15:02:32|Error|Tipo di Errore: Nessun errore
+15:02:32|Error|Errore relativo al nodo: entry numero: 1 /feed/entry/updated
+15:02:32|Error|Tipo di Errore: Nessun errore
+15:02:32|Error|Errore relativo al nodo: entry numero: 1 . /feed/entry/category
+15:02:32|Error|Tipo di Errore: Nessun errore
+15:02:32|Error|Errore relativo al nodo: entry numero: 1 . /feed/entry/category
+15:02:32|Error|Tipo di Errore: Nessun errore
+15:02:32|Error|Errore relativo al nodo: entry numero: 2 /feed/entry/title
+15:02:32|Error|Tipo di Errore: Nessun errore
+15:02:32|Error|Errore relativo al nodo: entry numero: 2 /feed/entry/link[@rel='describedby']
+15:02:32|Error|Tipo di Errore: Nessun errore
+15:02:32|Error|Errore relativo al nodo: entry numero: 2 /feed/entry[2]/link[@rel='alternate']
+15:02:32|Error|Tipo di Errore: Il nodo non è unico
+15:02:32|Error|Errore relativo al nodo: entry numero: 2 /feed/entry[2]/id
+15:02:32|Error|Tipo di Errore: Nessun errore
+15:02:32|Error|Errore relativo al nodo: entry numero: 2 /feed/entry[2]/rights
+15:02:32|Error|Tipo di Errore: Nessun errore
+15:02:32|Error|Errore relativo al nodo: entry numero: 2 /feed/entry[2]/summary
+15:02:32|Error|Tipo di Errore: Nessun errore
+15:02:32|Error|Errore relativo al nodo: nodo numero: 1 /feed/entry/author/name
+15:02:32|Error|Tipo di Errore: Nessun errore
+15:02:32|Error|Errore relativo al nodo: nodo numero: 1 /feed/entry/author/email
+15:02:32|Error|Tipo di Errore: Nessun errore
+15:02:32|Error|Errore relativo al nodo: entry numero: 2 /feed/entry/updated
+15:02:32|Error|Tipo di Errore: Nessun errore
+15:02:32|Error|Errore relativo al nodo: entry numero: 2 . /feed/entry/category
+15:02:32|Error|Tipo di Errore: Nessun errore
+15:02:32|Error|Errore relativo al nodo: entry numero: 2 . /feed/entry/category
+15:02:32|Error|Tipo di Errore: Nessun errore
+15:02:32|Info|waternetwork_feed.xml
+15:02:32|Info|Nodo: /feed/title
+15:02:32|Info|Nessun errore
+15:02:32|Error|Errore relativo al nodo: /feed/title
+15:02:32|Error|Tipo di Errore: Nessun errore
+15:02:32|Info|Nodo: /feed/subtitle
+15:02:32|Info|Nessun errore
+15:02:32|Error|Errore relativo al nodo: /feed/subtitle
+15:02:32|Error|Tipo di Errore: Nessun errore
+15:02:32|Info|Nodo: /feed/entry/id
+15:02:33|Info|Nessun errore
+15:02:33|Error|Errore relativo al nodo: /feed/id
+15:02:33|Error|Tipo di Errore: Nessun errore
+15:02:33|Info|Nodo: /feed/rights
+15:02:33|Info|Nessun errore
+15:02:33|Error|Errore relativo al nodo: /feed/rights
+15:02:33|Error|Tipo di Errore: Nessun errore
+15:02:33|Info|Nodo: /feed/author/name
+15:02:33|Info|Nessun errore
+15:02:33|Info|Nodo: /feed/author/email
+15:02:33|Info|Nessun errore
+15:02:33|Error|Errore relativo al nodo: nodo numero: 1 /feed/author/name
+15:02:33|Error|Tipo di Errore: Nessun errore
+15:02:33|Error|Errore relativo al nodo: nodo numero: 1 /feed/author/email
+15:02:33|Error|Tipo di Errore: Nessun errore
+15:02:33|Info|Nodo: /feed/updated
+15:02:33|Info|Nessun errore
+15:02:33|Error|Errore relativo al nodo: /feed/updated
+15:02:33|Error|Tipo di Errore: Nessun errore
+15:02:34|Info|Nodo: /feed/link[@rel='describedby']
+15:02:34|Info|Nessun errore
+15:02:34|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+15:02:34|Error|Tipo di Errore: Nessun errore
+15:02:34|Info|Nodo: /feed/link[@rel='up']
+15:02:34|Info|Nessun errore
+15:02:34|Error|Errore relativo al nodo: /feed/link[@rel='up']
+15:02:34|Error|Tipo di Errore: Nessun errore
+15:02:34|Info|Errori relativi al tag entry numero 1
+
+15:02:34|Info|Nodo: /feed/entry[1]/category
+15:02:34|Info|Nessun errore
+15:02:35|Info|Nodo: /feed/entry[1]/link[@rel='alternate']
+15:02:35|Info|Nessun errore
+15:02:35|Info|Errori relativi al tag entry numero 2
+
+15:02:35|Info|Nodo: /feed/entry[2]/category
+15:02:35|Info|Nessun errore
+15:02:35|Error|Errore relativo al nodo: /feed/entry[2]/link[@rel='section']
+15:02:35|Error|Tipo di Errore: Il link non è multiplo
+15:02:35|Error|Livello di errore: 3
+15:02:35|Info|Errori relativi al tag entry numero 3
+
+15:02:35|Info|Nodo: /feed/entry[3]/category
+15:02:35|Info|Nessun errore
+15:02:35|Info|Nodo: /feed/entry[3]/link[@rel='alternate']
+15:02:35|Info|Nessun errore
+15:02:35|Info|Errori relativi al tag entry numero 4
+
+15:02:35|Info|Nodo: /feed/entry[4]/category
+15:02:35|Info|Nessun errore
+15:02:41|Info|Nodo: /feed/entry[4]/link[@rel='alternate']
+15:02:41|Info|Nessun errore
+15:02:41|Error|Errore relativo al nodo: /feed/entry[1]/category
+15:02:41|Error|Tipo di Errore: Nessun errore
+15:02:41|Error|Errore relativo al nodo: /feed/entry[1]/link[@rel='alternate']
+15:02:41|Error|Tipo di Errore: Nessun errore
+15:02:41|Error|Errore relativo al nodo: /feed/entry[2]/category
+15:02:41|Error|Tipo di Errore: Nessun errore
+15:02:41|Error|Errore relativo al nodo: /feed/entry[2]/link[@rel='section']
+15:02:41|Error|Tipo di Errore: Il link non è multiplo
+15:02:41|Error|Errore relativo al nodo: /feed/entry[3]/category
+15:02:41|Error|Tipo di Errore: Nessun errore
+15:02:41|Error|Errore relativo al nodo: /feed/entry[3]/link[@rel='alternate']
+15:02:41|Error|Tipo di Errore: Nessun errore
+15:02:41|Error|Errore relativo al nodo: /feed/entry[4]/category
+15:02:41|Error|Tipo di Errore: Nessun errore
+15:02:41|Error|Errore relativo al nodo: /feed/entry[4]/link[@rel='alternate']
+15:02:41|Error|Tipo di Errore: Nessun errore
+15:02:41|Info|waternetwork.xml
+15:02:41|Info|Nodo: /feed/title
+15:02:41|Info|Nessun errore
+15:02:41|Error|Errore relativo al nodo: /feed/title
+15:02:41|Error|Tipo di Errore: Nessun errore
+15:02:41|Info|Nodo: /feed/subtitle
+15:02:41|Info|Nessun errore
+15:02:41|Error|Errore relativo al nodo: /feed/subtitle
+15:02:41|Error|Tipo di Errore: Nessun errore
+15:02:41|Info|Nodo: /feed/entry/id
+15:02:41|Info|Nessun errore
+15:02:41|Error|Errore relativo al nodo: /feed/id
+15:02:41|Error|Tipo di Errore: Nessun errore
+15:02:41|Info|Nodo: /feed/rights
+15:02:41|Info|Nessun errore
+15:02:41|Error|Errore relativo al nodo: /feed/rights
+15:02:41|Error|Tipo di Errore: Nessun errore
+15:02:41|Info|Nodo: /feed/author/name
+15:02:41|Info|Nessun errore
+15:02:41|Info|Nodo: /feed/author/email
+15:02:41|Info|Nessun errore
+15:02:41|Error|Errore relativo al nodo: nodo numero: 1 /feed/author/name
+15:02:41|Error|Tipo di Errore: Nessun errore
+15:02:41|Error|Errore relativo al nodo: nodo numero: 1 /feed/author/email
+15:02:41|Error|Tipo di Errore: Nessun errore
+15:02:42|Info|Nodo: /feed/updated
+15:02:42|Info|Nessun errore
+15:02:42|Error|Errore relativo al nodo: /feed/updated
+15:02:42|Error|Tipo di Errore: Nessun errore
+15:02:42|Info|Nodo: /feed/link[@rel='describedby']
+15:02:42|Info|Nessun errore
+15:02:42|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+15:02:42|Error|Tipo di Errore: Nessun errore
+15:02:42|Info|Nodo: /feed/link[@rel='up']
+15:02:42|Info|Nessun errore
+15:02:42|Error|Errore relativo al nodo: /feed/link[@rel='up']
+15:02:42|Error|Tipo di Errore: Nessun errore
+15:02:42|Info|Errori relativi al tag entry numero 1
+
+15:02:42|Info|Nodo: /feed/entry[1]/category
+15:02:42|Info|Nessun errore
+15:02:42|Info|Nodo: /feed/entry[1]/link[@rel='alternate']
+15:02:42|Info|Nessun errore
+15:02:42|Info|Errori relativi al tag entry numero 2
+
+15:02:42|Info|Nodo: /feed/entry[2]/category
+15:02:42|Info|Nessun errore
+15:02:42|Error|Errore relativo al nodo: /feed/entry[2]/link[@rel='section']
+15:02:42|Error|Tipo di Errore: Il link non è multiplo
+15:02:42|Error|Livello di errore: 3
+15:02:42|Info|Errori relativi al tag entry numero 3
+
+15:02:43|Info|Nodo: /feed/entry[3]/category
+15:02:43|Info|Nessun errore
+15:02:43|Info|Nodo: /feed/entry[3]/link[@rel='alternate']
+15:02:43|Info|Nessun errore
+15:02:43|Info|Errori relativi al tag entry numero 4
+
+15:02:43|Info|Nodo: /feed/entry[4]/category
+15:02:43|Info|Nessun errore
+15:02:49|Info|Nodo: /feed/entry[4]/link[@rel='alternate']
+15:02:49|Info|Nessun errore
+15:02:49|Error|Errore relativo al nodo: /feed/entry[1]/category
+15:02:49|Error|Tipo di Errore: Nessun errore
+15:02:49|Error|Errore relativo al nodo: /feed/entry[1]/link[@rel='alternate']
+15:02:49|Error|Tipo di Errore: Nessun errore
+15:02:49|Error|Errore relativo al nodo: /feed/entry[2]/category
+15:02:49|Error|Tipo di Errore: Nessun errore
+15:02:49|Error|Errore relativo al nodo: /feed/entry[2]/link[@rel='section']
+15:02:49|Error|Tipo di Errore: Il link non è multiplo
+15:02:49|Error|Errore relativo al nodo: /feed/entry[3]/category
+15:02:49|Error|Tipo di Errore: Nessun errore
+15:02:49|Error|Errore relativo al nodo: /feed/entry[3]/link[@rel='alternate']
+15:02:49|Error|Tipo di Errore: Nessun errore
+15:02:49|Error|Errore relativo al nodo: /feed/entry[4]/category
+15:02:49|Error|Tipo di Errore: Nessun errore
+15:02:49|Error|Errore relativo al nodo: /feed/entry[4]/link[@rel='alternate']
+15:02:49|Error|Tipo di Errore: Nessun errore
+15:02:49|Info|aperto file
+15:02:50|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='self']
+15:02:50|Error|Tipo di Errore: Il link non esiste
+15:02:50|Error|Livello di errore: 2
+15:02:50|Error|/OpenSearchDescription/Url[@rel='self']
+15:02:50|Error|Tipo di Errore: Il link non esiste
+15:02:50|Info|Nodo: /OpenSearchDescription/Url[@rel='results'][1]
+15:02:50|Info|Nessun errore
+15:02:50|Error|/OpenSearchDescription/Url[@rel='results']
+15:02:50|Error|Tipo di Errore: Nessun errore
+15:02:50|Info|Nodo: /OpenSearchDescription/Url[@rel='describedby']
+15:02:50|Info|Nessun errore
+15:02:50|Error|/OpenSearchDescription/Url[@rel='describedby']
+15:02:50|Error|Tipo di Errore: Nessun errore
+15:02:50|Info|Nodo: /OpenSearchDescription/Url[@rel='results'][last()]
+15:02:50|Info|Nessun errore
+15:02:50|Error|/OpenSearchDescription/Url[@rel='results'][last()]
+15:02:50|Error|Tipo di Errore: Nessun errore
+15:02:50|Info|Nodo: /OpenSearchDescription/Language
+15:02:50|Info|Nessun errore
+15:02:50|Info|Nodo: /OpenSearchDescription/Language
+15:02:50|Info|Nessun errore
+15:02:50|Error|/OpenSearchDescription/Language
+15:02:50|Error|Tipo di Errore: Nessun errore
+15:02:50|Error|/OpenSearchDescription/Language
+15:02:50|Error|Tipo di Errore: Nessun errore
+11:46:58|Info|Nodo: /feed/title
+11:46:58|Info|Nessun errore
+11:46:58|Error|Errore relativo al nodo: /feed/title
+11:46:58|Error|Tipo di Errore: Nessun errore
+11:46:58|Info|Nodo: /feed/subtitle
+11:46:58|Info|Nessun errore
+11:46:58|Error|Errore relativo al nodo: /feed/subtitle
+11:46:58|Error|Tipo di Errore: Nessun errore
+11:46:58|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+11:46:58|Error|Tipo di Errore: Il link non esiste
+11:46:58|Error|Livello di errore: 2
+11:46:58|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+11:46:58|Error|Tipo di Errore: Il link non esiste
+11:46:58|Error|Errore relativo al nodo: /feed/link[@rel='self']
+11:46:58|Error|Tipo di Errore: Il link non esiste
+11:46:58|Error|Livello di errore: 3
+11:46:58|Error|Errore relativo al nodo: /feed/link[@rel='self']
+11:46:58|Error|Tipo di Errore: Il link non esiste
+11:46:58|Info|Nodo: /feed/link[@rel='search']
+11:46:58|Info|Nessun errore
+11:46:58|Error|Errore relativo al nodo: /feed/link[@rel='search']
+11:46:58|Error|Tipo di Errore: Nessun errore
+11:46:58|Error|Errore relativo al nodo: /feed/link[@rel='alternate']
+11:46:58|Error|Tipo di Errore: Il link non esiste
+11:46:58|Error|Livello di errore: 2
+11:46:59|Error|Errore relativo al nodo: /feed/link[@rel='alternate']
+11:46:59|Error|Tipo di Errore: Il link non esiste
+11:46:59|Error|Livello di errore: 2
+11:46:59|Error|Errore relativo al nodo: /feed/link[@rel='alternate']
+11:46:59|Error|Tipo di Errore: Il link non esiste
+11:46:59|Error|Livello di errore: 2
+11:46:59|Error|Errore relativo al nodo: /feed/link[@rel='alternate']
+11:46:59|Error|Tipo di Errore: Il link non esiste
+11:46:59|Error|Errore relativo al nodo: /feed/link[@rel='alternate']
+11:46:59|Error|Tipo di Errore: Il link non esiste
+11:46:59|Error|Errore relativo al nodo: /feed/link[@rel='alternate']
+11:46:59|Error|Tipo di Errore: Il link non esiste
+11:46:59|Info|Nodo: /feed/id
+11:46:59|Info|Nessun errore
+11:46:59|Error|Errore relativo al nodo: /feed/id
+11:46:59|Error|Tipo di Errore: Nessun errore
+11:46:59|Info|Nodo: /feed/rights
+11:46:59|Info|Nessun errore
+11:46:59|Error|Errore relativo al nodo: /feed/rights
+11:46:59|Error|Tipo di Errore: Nessun errore
+11:46:59|Info|Nodo: /feed/author/name
+11:46:59|Info|Nessun errore
+11:46:59|Info|Nodo: /feed/author/email
+11:46:59|Info|Nessun errore
+11:46:59|Error|Errore relativo al nodo: nodo numero: 1 /feed/author/name
+11:46:59|Error|Tipo di Errore: Nessun errore
+11:46:59|Error|Errore relativo al nodo: nodo numero: 1 /feed/author/email
+11:46:59|Error|Tipo di Errore: Nessun errore
+11:46:59|Info|Nodo: /feed/updated
+11:46:59|Info|Nessun errore
+11:46:59|Error|Errore relativo al nodo: /feed/updated
+11:46:59|Error|Tipo di Errore: Nessun errore
+11:46:59|Info|Errori relativi al tag entry numero 1
+
+11:46:59|Info|Nodo: /feed/entry[1]/title
+11:46:59|Info|Nessun errore
+11:46:59|Error|Errore relativo al nodo: /feed/entry[1]/link[@rel='describedby']
+11:46:59|Error|Tipo di Errore: Il link non esiste
+11:46:59|Error|Livello di errore: 2
+11:46:59|Info|-4
+11:46:59|Error|Errore relativo al nodo: /feed/entry/link[@rel='alternate']
+11:46:59|Error|Tipo di Errore: Il nodo non è unico
+11:46:59|Error|Livello di errore: 3
+11:46:59|Info|Nodo: /feed/entry/id
+11:46:59|Info|Nessun errore
+11:46:59|Info|Nodo: /feed/entry/rights
+11:46:59|Info|Nessun errore
+11:46:59|Info|Nodo: /feed/entry/summary
+11:46:59|Info|Nessun errore
+11:46:59|Info|Nodo: /feed/entry/author/name
+11:46:59|Info|Nessun errore
+11:46:59|Info|Nodo: /feed/entry/author/email
+11:46:59|Info|Nessun errore
+11:46:59|Info|Nodo: /feed/entry[1]/updated
+11:46:59|Info|Nessun errore
+11:46:59|Error|Errore relativo al nodo: /feed/entry[1]/category
+11:46:59|Error|Tipo di Errore: Il link non esiste
+11:46:59|Error|Livello di errore: 2
+11:46:59|Error|Errore relativo al nodo: /feed/entry[1]/category
+11:46:59|Error|Tipo di Errore: Il link non esiste
+11:46:59|Error|Livello di errore: 2
+11:46:59|Info|Errori relativi al tag entry numero 2
+
+11:46:59|Info|Nodo: /feed/entry[2]/title
+11:46:59|Info|Nessun errore
+11:46:59|Error|Errore relativo al nodo: /feed/entry[2]/link[@rel='describedby']
+11:46:59|Error|Tipo di Errore: Il link non esiste
+11:46:59|Error|Livello di errore: 2
+11:46:59|Info|-4
+11:46:59|Error|Errore relativo al nodo: /feed/entry/link[@rel='alternate']
+11:46:59|Error|Tipo di Errore: Il nodo non è unico
+11:46:59|Error|Livello di errore: 3
+11:46:59|Info|Nodo: /feed/entry/id
+11:46:59|Info|Nessun errore
+11:46:59|Info|Nodo: /feed/entry/rights
+11:46:59|Info|Nessun errore
+11:47:00|Info|Nodo: /feed/entry/summary
+11:47:00|Info|Nessun errore
+11:47:00|Info|Nodo: /feed/entry/author/name
+11:47:00|Info|Nessun errore
+11:47:00|Info|Nodo: /feed/entry/author/email
+11:47:00|Info|Nessun errore
+11:47:00|Info|Nodo: /feed/entry[2]/updated
+11:47:00|Info|Nessun errore
+11:47:00|Error|Errore relativo al nodo: /feed/entry[2]/category
+11:47:00|Error|Tipo di Errore: Il link non esiste
+11:47:00|Error|Livello di errore: 2
+11:47:00|Error|Errore relativo al nodo: /feed/entry[2]/category
+11:47:00|Error|Tipo di Errore: Il link non esiste
+11:47:00|Error|Livello di errore: 2
+11:47:00|Error|Errore relativo al nodo: entry numero: 1 /feed/entry/title
+11:47:00|Error|Tipo di Errore: Nessun errore
+11:47:00|Error|Errore relativo al nodo: entry numero: 1 /feed/entry/link[@rel='describedby']
+11:47:00|Error|Tipo di Errore: Il link non esiste
+11:47:00|Error|Errore relativo al nodo: entry numero: 1 /feed/entry[1]/link[@rel='alternate']
+11:47:00|Error|Tipo di Errore: Il nodo non è unico
+11:47:00|Error|Errore relativo al nodo: entry numero: 1 /feed/entry[1]/id
+11:47:00|Error|Tipo di Errore: Nessun errore
+11:47:00|Error|Errore relativo al nodo: entry numero: 1 /feed/entry[1]/rights
+11:47:00|Error|Tipo di Errore: Nessun errore
+11:47:00|Error|Errore relativo al nodo: entry numero: 1 /feed/entry[1]/summary
+11:47:00|Error|Tipo di Errore: Nessun errore
+11:47:00|Error|Errore relativo al nodo: nodo numero: 1 /feed/entry/author/name
+11:47:00|Error|Tipo di Errore: Nessun errore
+11:47:00|Error|Errore relativo al nodo: nodo numero: 1 /feed/entry/author/email
+11:47:00|Error|Tipo di Errore: Nessun errore
+11:47:00|Error|Errore relativo al nodo: entry numero: 1 /feed/entry/updated
+11:47:00|Error|Tipo di Errore: Nessun errore
+11:47:00|Error|Errore relativo al nodo: entry numero: 1 . /feed/entry/category
+11:47:00|Error|Tipo di Errore: Il link non esiste
+11:47:00|Error|Errore relativo al nodo: entry numero: 1 . /feed/entry/category
+11:47:00|Error|Tipo di Errore: Il link non esiste
+11:47:00|Error|Errore relativo al nodo: entry numero: 2 /feed/entry/title
+11:47:00|Error|Tipo di Errore: Nessun errore
+11:47:00|Error|Errore relativo al nodo: entry numero: 2 /feed/entry/link[@rel='describedby']
+11:47:00|Error|Tipo di Errore: Il link non esiste
+11:47:00|Error|Errore relativo al nodo: entry numero: 2 /feed/entry[2]/link[@rel='alternate']
+11:47:00|Error|Tipo di Errore: Il nodo non è unico
+11:47:00|Error|Errore relativo al nodo: entry numero: 2 /feed/entry[2]/id
+11:47:00|Error|Tipo di Errore: Nessun errore
+11:47:00|Error|Errore relativo al nodo: entry numero: 2 /feed/entry[2]/rights
+11:47:00|Error|Tipo di Errore: Nessun errore
+11:47:00|Error|Errore relativo al nodo: entry numero: 2 /feed/entry[2]/summary
+11:47:00|Error|Tipo di Errore: Nessun errore
+11:47:00|Error|Errore relativo al nodo: nodo numero: 1 /feed/entry/author/name
+11:47:00|Error|Tipo di Errore: Nessun errore
+11:47:00|Error|Errore relativo al nodo: nodo numero: 1 /feed/entry/author/email
+11:47:00|Error|Tipo di Errore: Nessun errore
+11:47:00|Error|Errore relativo al nodo: entry numero: 2 /feed/entry/updated
+11:47:00|Error|Tipo di Errore: Nessun errore
+11:47:00|Error|Errore relativo al nodo: entry numero: 2 . /feed/entry/category
+11:47:00|Error|Tipo di Errore: Il link non esiste
+11:47:00|Error|Errore relativo al nodo: entry numero: 2 . /feed/entry/category
+11:47:00|Error|Tipo di Errore: Il link non esiste
+11:47:01|Info|waternetwork_feed.xml
+11:47:01|Info|Nodo: /feed/title
+11:47:01|Info|Nessun errore
+11:47:01|Error|Errore relativo al nodo: /feed/title
+11:47:01|Error|Tipo di Errore: Nessun errore
+11:47:01|Info|Nodo: /feed/subtitle
+11:47:01|Info|Nessun errore
+11:47:01|Error|Errore relativo al nodo: /feed/subtitle
+11:47:01|Error|Tipo di Errore: Nessun errore
+11:47:01|Info|Nodo: /feed/entry/id
+11:47:01|Info|Nessun errore
+11:47:01|Error|Errore relativo al nodo: /feed/id
+11:47:01|Error|Tipo di Errore: Nessun errore
+11:47:01|Info|Nodo: /feed/rights
+11:47:01|Info|Nessun errore
+11:47:01|Error|Errore relativo al nodo: /feed/rights
+11:47:01|Error|Tipo di Errore: Nessun errore
+11:47:01|Info|Nodo: /feed/author/name
+11:47:01|Info|Nessun errore
+11:47:01|Info|Nodo: /feed/author/email
+11:47:01|Info|Nessun errore
+11:47:01|Error|Errore relativo al nodo: nodo numero: 1 /feed/author/name
+11:47:01|Error|Tipo di Errore: Nessun errore
+11:47:01|Error|Errore relativo al nodo: nodo numero: 1 /feed/author/email
+11:47:01|Error|Tipo di Errore: Nessun errore
+11:47:01|Info|Nodo: /feed/updated
+11:47:01|Info|Nessun errore
+11:47:01|Error|Errore relativo al nodo: /feed/updated
+11:47:01|Error|Tipo di Errore: Nessun errore
+11:47:01|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+11:47:01|Error|Tipo di Errore: Il link non esiste
+11:47:01|Error|Livello di errore: 3
+11:47:01|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+11:47:01|Error|Tipo di Errore: Il link non esiste
+11:47:01|Error|Livello di errore: 3
+11:47:01|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+11:47:01|Error|Tipo di Errore: Il link non esiste
+11:47:01|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+11:47:01|Error|Tipo di Errore: Il link non esiste
+11:47:01|Info|Nodo: /feed/link[@rel='up']
+11:47:01|Info|Nessun errore
+11:47:01|Error|Errore relativo al nodo: /feed/link[@rel='up']
+11:47:01|Error|Tipo di Errore: Nessun errore
+11:47:01|Info|Errori relativi al tag entry numero 1
+
+11:47:01|Error|Errore relativo al nodo: /feed/entry[1]/category
+11:47:01|Error|Tipo di Errore: Il link non esiste
+11:47:01|Error|Livello di errore: 2
+11:47:01|Error|Errore relativo al nodo: /feed/entry[1]/link[@rel='alternate']
+11:47:01|Error|Tipo di Errore: Il link non esiste
+11:47:01|Error|Livello di errore: 3
+11:47:01|Info|Errori relativi al tag entry numero 2
+
+11:47:01|Error|Errore relativo al nodo: /feed/entry[2]/category
+11:47:01|Error|Tipo di Errore: Il link non esiste
+11:47:01|Error|Livello di errore: 2
+11:47:01|Error|Errore relativo al nodo: /feed/entry[2]/link[@rel='section']
+11:47:01|Error|Tipo di Errore: Il link non è multiplo
+11:47:01|Error|Livello di errore: 3
+11:47:01|Info|Errori relativi al tag entry numero 3
+
+11:47:02|Error|Errore relativo al nodo: /feed/entry[3]/category
+11:47:02|Error|Tipo di Errore: Il link non esiste
+11:47:02|Error|Livello di errore: 2
+11:47:02|Error|Errore relativo al nodo: /feed/entry[3]/link[@rel='alternate']
+11:47:02|Error|Tipo di Errore: Il link non esiste
+11:47:02|Error|Livello di errore: 3
+11:47:02|Info|Errori relativi al tag entry numero 4
+
+11:47:02|Error|Errore relativo al nodo: /feed/entry[4]/category
+11:47:02|Error|Tipo di Errore: Il link non esiste
+11:47:02|Error|Livello di errore: 2
+11:47:02|Error|Errore relativo al nodo: /feed/entry[4]/link[@rel='alternate']
+11:47:02|Error|Tipo di Errore: Il link non esiste
+11:47:02|Error|Livello di errore: 3
+11:47:02|Error|Errore relativo al nodo: /feed/entry[1]/category
+11:47:02|Error|Tipo di Errore: Il link non esiste
+11:47:02|Error|Errore relativo al nodo: /feed/entry[1]/link[@rel='alternate']
+11:47:02|Error|Tipo di Errore: Il link non esiste
+11:47:02|Error|Errore relativo al nodo: /feed/entry[2]/category
+11:47:02|Error|Tipo di Errore: Il link non esiste
+11:47:02|Error|Errore relativo al nodo: /feed/entry[2]/link[@rel='section']
+11:47:02|Error|Tipo di Errore: Il link non è multiplo
+11:47:02|Error|Errore relativo al nodo: /feed/entry[3]/category
+11:47:02|Error|Tipo di Errore: Il link non esiste
+11:47:02|Error|Errore relativo al nodo: /feed/entry[3]/link[@rel='alternate']
+11:47:02|Error|Tipo di Errore: Il link non esiste
+11:47:02|Error|Errore relativo al nodo: /feed/entry[4]/category
+11:47:02|Error|Tipo di Errore: Il link non esiste
+11:47:02|Error|Errore relativo al nodo: /feed/entry[4]/link[@rel='alternate']
+11:47:02|Error|Tipo di Errore: Il link non esiste
+11:47:02|Info|waternetwork.xml
+11:47:02|Info|Nodo: /feed/title
+11:47:02|Info|Nessun errore
+11:47:02|Error|Errore relativo al nodo: /feed/title
+11:47:02|Error|Tipo di Errore: Nessun errore
+11:47:02|Info|Nodo: /feed/subtitle
+11:47:02|Info|Nessun errore
+11:47:02|Error|Errore relativo al nodo: /feed/subtitle
+11:47:02|Error|Tipo di Errore: Nessun errore
+11:47:02|Info|Nodo: /feed/entry/id
+11:47:02|Info|Nessun errore
+11:47:02|Error|Errore relativo al nodo: /feed/id
+11:47:02|Error|Tipo di Errore: Nessun errore
+11:47:02|Info|Nodo: /feed/rights
+11:47:02|Info|Nessun errore
+11:47:02|Error|Errore relativo al nodo: /feed/rights
+11:47:02|Error|Tipo di Errore: Nessun errore
+11:47:02|Info|Nodo: /feed/author/name
+11:47:02|Info|Nessun errore
+11:47:02|Info|Nodo: /feed/author/email
+11:47:02|Info|Nessun errore
+11:47:02|Error|Errore relativo al nodo: nodo numero: 1 /feed/author/name
+11:47:02|Error|Tipo di Errore: Nessun errore
+11:47:02|Error|Errore relativo al nodo: nodo numero: 1 /feed/author/email
+11:47:02|Error|Tipo di Errore: Nessun errore
+11:47:02|Info|Nodo: /feed/updated
+11:47:02|Info|Nessun errore
+11:47:02|Error|Errore relativo al nodo: /feed/updated
+11:47:02|Error|Tipo di Errore: Nessun errore
+11:47:02|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+11:47:02|Error|Tipo di Errore: Il link non esiste
+11:47:02|Error|Livello di errore: 3
+11:47:03|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+11:47:03|Error|Tipo di Errore: Il link non esiste
+11:47:03|Error|Livello di errore: 3
+11:47:03|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+11:47:03|Error|Tipo di Errore: Il link non esiste
+11:47:03|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+11:47:03|Error|Tipo di Errore: Il link non esiste
+11:47:03|Info|Nodo: /feed/link[@rel='up']
+11:47:03|Info|Nessun errore
+11:47:03|Error|Errore relativo al nodo: /feed/link[@rel='up']
+11:47:03|Error|Tipo di Errore: Nessun errore
+11:47:03|Info|Errori relativi al tag entry numero 1
+
+11:47:03|Error|Errore relativo al nodo: /feed/entry[1]/category
+11:47:03|Error|Tipo di Errore: Il link non esiste
+11:47:03|Error|Livello di errore: 2
+11:47:03|Error|Errore relativo al nodo: /feed/entry[1]/link[@rel='alternate']
+11:47:03|Error|Tipo di Errore: Il link non esiste
+11:47:03|Error|Livello di errore: 3
+11:47:03|Info|Errori relativi al tag entry numero 2
+
+11:47:03|Error|Errore relativo al nodo: /feed/entry[2]/category
+11:47:03|Error|Tipo di Errore: Il link non esiste
+11:47:03|Error|Livello di errore: 2
+11:47:03|Error|Errore relativo al nodo: /feed/entry[2]/link[@rel='section']
+11:47:03|Error|Tipo di Errore: Il link non è multiplo
+11:47:03|Error|Livello di errore: 3
+11:47:03|Info|Errori relativi al tag entry numero 3
+
+11:47:03|Error|Errore relativo al nodo: /feed/entry[3]/category
+11:47:03|Error|Tipo di Errore: Il link non esiste
+11:47:03|Error|Livello di errore: 2
+11:47:03|Error|Errore relativo al nodo: /feed/entry[3]/link[@rel='alternate']
+11:47:03|Error|Tipo di Errore: Il link non esiste
+11:47:03|Error|Livello di errore: 3
+11:47:03|Info|Errori relativi al tag entry numero 4
+
+11:47:03|Error|Errore relativo al nodo: /feed/entry[4]/category
+11:47:03|Error|Tipo di Errore: Il link non esiste
+11:47:03|Error|Livello di errore: 2
+11:47:03|Error|Errore relativo al nodo: /feed/entry[4]/link[@rel='alternate']
+11:47:03|Error|Tipo di Errore: Il link non esiste
+11:47:03|Error|Livello di errore: 3
+11:47:03|Error|Errore relativo al nodo: /feed/entry[1]/category
+11:47:03|Error|Tipo di Errore: Il link non esiste
+11:47:03|Error|Errore relativo al nodo: /feed/entry[1]/link[@rel='alternate']
+11:47:03|Error|Tipo di Errore: Il link non esiste
+11:47:03|Error|Errore relativo al nodo: /feed/entry[2]/category
+11:47:03|Error|Tipo di Errore: Il link non esiste
+11:47:03|Error|Errore relativo al nodo: /feed/entry[2]/link[@rel='section']
+11:47:03|Error|Tipo di Errore: Il link non è multiplo
+11:47:03|Error|Errore relativo al nodo: /feed/entry[3]/category
+11:47:03|Error|Tipo di Errore: Il link non esiste
+11:47:03|Error|Errore relativo al nodo: /feed/entry[3]/link[@rel='alternate']
+11:47:03|Error|Tipo di Errore: Il link non esiste
+11:47:03|Error|Errore relativo al nodo: /feed/entry[4]/category
+11:47:03|Error|Tipo di Errore: Il link non esiste
+11:47:03|Error|Errore relativo al nodo: /feed/entry[4]/link[@rel='alternate']
+11:47:03|Error|Tipo di Errore: Il link non esiste
+11:47:04|Info|aperto file
+11:47:04|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='self']
+11:47:04|Error|Tipo di Errore: Il link non esiste
+11:47:04|Error|Livello di errore: 2
+11:47:04|Error|/OpenSearchDescription/Url[@rel='self']
+11:47:04|Error|Tipo di Errore: Il link non esiste
+11:47:04|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='results'][1]
+11:47:04|Error|Tipo di Errore: Il link non esiste
+11:47:04|Error|Livello di errore: 2
+11:47:04|Error|/OpenSearchDescription/Url[@rel='results']
+11:47:04|Error|Tipo di Errore: Il link non esiste
+11:47:04|Info|Nodo: /OpenSearchDescription/Url[@rel='describedby']
+11:47:04|Info|Nessun errore
+11:47:04|Error|/OpenSearchDescription/Url[@rel='describedby']
+11:47:04|Error|Tipo di Errore: Nessun errore
+11:47:04|Info|Nodo: /OpenSearchDescription/Url[@rel='results'][last()]
+11:47:04|Info|Nessun errore
+11:47:04|Error|/OpenSearchDescription/Url[@rel='results'][last()]
+11:47:04|Error|Tipo di Errore: Nessun errore
+11:47:04|Info|Nodo: /OpenSearchDescription/Language
+11:47:04|Info|Nessun errore
+11:47:04|Info|Nodo: /OpenSearchDescription/Language
+11:47:04|Info|Nessun errore
+11:47:04|Error|/OpenSearchDescription/Language
+11:47:04|Error|Tipo di Errore: Nessun errore
+11:47:04|Error|/OpenSearchDescription/Language
+11:47:04|Error|Tipo di Errore: Nessun errore
+17:56:38|Error|Errore relativo al nodo: /feed/title
+17:56:38|Error|Tipo di Errore: Il nodo non è presente
+17:56:38|Error|Livello di errore: 2
+17:56:38|Error|Errore relativo al nodo: /feed/title
+17:56:38|Error|Tipo di Errore: Il nodo non è presente
+17:56:38|Info|Nodo: /feed/subtitle
+17:56:38|Info|Nessun errore
+17:56:38|Error|Errore relativo al nodo: /feed/subtitle
+17:56:38|Error|Tipo di Errore: Nessun errore
+17:56:38|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+17:56:38|Error|Tipo di Errore: Il nodo non è presente
+17:56:38|Error|Livello di errore: 3
+17:56:38|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+17:56:38|Error|Tipo di Errore: Il nodo non è presente
+17:56:38|Error|Errore relativo al nodo: /feed/link[@rel='self']
+17:56:38|Error|Tipo di Errore: Il nodo non è presente
+17:56:38|Error|Livello di errore: 3
+17:56:38|Error|Errore relativo al nodo: /feed/link[@rel='self']
+17:56:38|Error|Tipo di Errore: Il nodo non è presente
+17:56:38|Error|Errore relativo al nodo: /feed/link[@rel='search']
+17:56:38|Error|Tipo di Errore: Il nodo non è unico
+17:56:38|Error|Livello di errore: 2
+17:56:38|Error|Errore relativo al nodo: /feed/link[@rel='search']
+17:56:38|Error|Tipo di Errore: Il nodo non è unico
+17:56:38|Error|Errore relativo al nodo: /feed/id
+17:56:38|Error|Tipo di Errore: Il nodo non è presente
+17:56:38|Error|Livello di errore: 3
+17:56:38|Error|Errore relativo al nodo: /feed/id
+17:56:38|Error|Tipo di Errore: Il nodo non è presente
+17:56:38|Error|Errore relativo al nodo: /feed/rights
+17:56:38|Error|Tipo di Errore: Il nodo non è presente
+17:56:38|Error|Livello di errore: 3
+17:56:38|Error|Errore relativo al nodo: /feed/rights
+17:56:38|Error|Tipo di Errore: Il nodo non è presente
+17:56:38|Error|Errore relativo al nodo: /feed/updated
+17:56:38|Error|Tipo di Errore: Il nodo non è presente
+17:56:38|Error|Livello di errore: 3
+17:56:38|Error|Errore relativo al nodo: /feed/updated
+17:56:38|Error|Tipo di Errore: Il nodo non è presente
+18:00:34|Error|Errore relativo al nodo: /feed/title
+18:00:34|Error|Tipo di Errore: Il nodo non è presente
+18:00:34|Error|Livello di errore: 2
+18:00:34|Error|Errore relativo al nodo: /feed/title
+18:00:34|Error|Tipo di Errore: Il nodo non è presente
+18:00:34|Info|Nodo: /feed/subtitle
+18:00:34|Info|Nessun errore
+18:00:34|Error|Errore relativo al nodo: /feed/subtitle
+18:00:34|Error|Tipo di Errore: Nessun errore
+18:00:34|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+18:00:34|Error|Tipo di Errore: Il nodo non è presente
+18:00:34|Error|Livello di errore: 3
+18:00:34|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+18:00:34|Error|Tipo di Errore: Il nodo non è presente
+18:00:34|Error|Errore relativo al nodo: /feed/link[@rel='self']
+18:00:34|Error|Tipo di Errore: Il nodo non è presente
+18:00:34|Error|Livello di errore: 3
+18:00:34|Error|Errore relativo al nodo: /feed/link[@rel='self']
+18:00:34|Error|Tipo di Errore: Il nodo non è presente
+18:00:34|Error|Errore relativo al nodo: /feed/link[@rel='search']
+18:00:34|Error|Tipo di Errore: Il nodo non è unico
+18:00:34|Error|Livello di errore: 2
+18:00:34|Error|Errore relativo al nodo: /feed/link[@rel='search']
+18:00:34|Error|Tipo di Errore: Il nodo non è unico
+18:00:34|Error|Errore relativo al nodo: /feed/id
+18:00:34|Error|Tipo di Errore: Il nodo non è presente
+18:00:34|Error|Livello di errore: 3
+18:00:34|Error|Errore relativo al nodo: /feed/id
+18:00:35|Error|Tipo di Errore: Il nodo non è presente
+18:00:35|Error|Errore relativo al nodo: /feed/rights
+18:00:35|Error|Tipo di Errore: Il nodo non è presente
+18:00:35|Error|Livello di errore: 3
+18:00:35|Error|Errore relativo al nodo: /feed/rights
+18:00:35|Error|Tipo di Errore: Il nodo non è presente
+18:00:35|Error|Errore relativo al nodo: /feed/updated
+18:00:35|Error|Tipo di Errore: Il nodo non è presente
+18:00:35|Error|Livello di errore: 3
+18:00:35|Error|Errore relativo al nodo: /feed/updated
+18:00:35|Error|Tipo di Errore: Il nodo non è presente
+18:02:52|Error|Errore relativo al nodo: /feed/title
+18:02:52|Error|Tipo di Errore: Il nodo non è presente
+18:02:52|Error|Livello di errore: 2
+18:02:52|Error|Errore relativo al nodo: /feed/title
+18:02:52|Error|Tipo di Errore: Il nodo non è presente
+18:02:52|Info|Nodo: /feed/subtitle
+18:02:52|Info|Nessun errore
+18:02:52|Error|Errore relativo al nodo: /feed/subtitle
+18:02:52|Error|Tipo di Errore: Nessun errore
+18:02:52|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+18:02:52|Error|Tipo di Errore: Il nodo non è presente
+18:02:52|Error|Livello di errore: 3
+18:02:52|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+18:02:52|Error|Tipo di Errore: Il nodo non è presente
+18:02:52|Error|Errore relativo al nodo: /feed/link[@rel='self']
+18:02:52|Error|Tipo di Errore: Il nodo non è presente
+18:02:52|Error|Livello di errore: 3
+18:02:52|Error|Errore relativo al nodo: /feed/link[@rel='self']
+18:02:52|Error|Tipo di Errore: Il nodo non è presente
+18:02:52|Error|Errore relativo al nodo: /feed/link[@rel='search']
+18:02:52|Error|Tipo di Errore: Il nodo non è unico
+18:02:52|Error|Livello di errore: 2
+18:02:52|Error|Errore relativo al nodo: /feed/link[@rel='search']
+18:02:52|Error|Tipo di Errore: Il nodo non è unico
+18:02:52|Error|Errore relativo al nodo: /feed/id
+18:02:52|Error|Tipo di Errore: Il nodo non è presente
+18:02:52|Error|Livello di errore: 3
+18:02:52|Error|Errore relativo al nodo: /feed/id
+18:02:52|Error|Tipo di Errore: Il nodo non è presente
+18:02:52|Error|Errore relativo al nodo: /feed/rights
+18:02:52|Error|Tipo di Errore: Il nodo non è presente
+18:02:52|Error|Livello di errore: 3
+18:02:52|Error|Errore relativo al nodo: /feed/rights
+18:02:52|Error|Tipo di Errore: Il nodo non è presente
+18:02:52|Error|Errore relativo al nodo: /feed/updated
+18:02:52|Error|Tipo di Errore: Il nodo non è presente
+18:02:52|Error|Livello di errore: 3
+18:02:52|Error|Errore relativo al nodo: /feed/updated
+18:02:52|Error|Tipo di Errore: Il nodo non è presente
+18:18:05|Error|Errore relativo al nodo: /feed/title
+18:18:05|Error|Tipo di Errore: Il nodo non è presente
+18:18:05|Error|Livello di errore: 2
+18:18:05|Error|Errore relativo al nodo: /feed/title
+18:18:05|Error|Tipo di Errore: Il nodo non è presente
+18:18:05|Info|Nodo: /feed/subtitle
+18:18:05|Info|Nessun errore
+18:18:05|Error|Errore relativo al nodo: /feed/subtitle
+18:18:05|Error|Tipo di Errore: Nessun errore
+18:18:05|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+18:18:05|Error|Tipo di Errore: Il nodo non è presente
+18:18:05|Error|Livello di errore: 3
+18:18:05|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+18:18:05|Error|Tipo di Errore: Il nodo non è presente
+18:18:05|Error|Errore relativo al nodo: /feed/link[@rel='self']
+18:18:05|Error|Tipo di Errore: Il nodo non è presente
+18:18:05|Error|Livello di errore: 3
+18:18:05|Error|Errore relativo al nodo: /feed/link[@rel='self']
+18:18:05|Error|Tipo di Errore: Il nodo non è presente
+18:18:05|Error|Errore relativo al nodo: /feed/link[@rel='search']
+18:18:05|Error|Tipo di Errore: Il nodo non è unico
+18:18:05|Error|Livello di errore: 2
+18:18:05|Error|Errore relativo al nodo: /feed/link[@rel='search']
+18:18:05|Error|Tipo di Errore: Il nodo non è unico
+18:18:05|Error|Errore relativo al nodo: /feed/id
+18:18:05|Error|Tipo di Errore: Il nodo non è presente
+18:18:05|Error|Livello di errore: 3
+18:18:05|Error|Errore relativo al nodo: /feed/id
+18:18:05|Error|Tipo di Errore: Il nodo non è presente
+18:18:05|Error|Errore relativo al nodo: /feed/rights
+18:18:05|Error|Tipo di Errore: Il nodo non è presente
+18:18:05|Error|Livello di errore: 3
+18:18:06|Error|Errore relativo al nodo: /feed/rights
+18:18:06|Error|Tipo di Errore: Il nodo non è presente
+18:18:06|Error|Errore relativo al nodo: /feed/updated
+18:18:06|Error|Tipo di Errore: Il nodo non è presente
+18:18:06|Error|Livello di errore: 3
+18:18:06|Error|Errore relativo al nodo: /feed/updated
+18:18:06|Error|Tipo di Errore: Il nodo non è presente
+18:24:05|Error|Errore relativo al nodo: /feed/title
+18:24:05|Error|Tipo di Errore: Il nodo non è presente
+18:24:05|Error|Livello di errore: 2
+18:24:05|Error|Errore relativo al nodo: /feed/title
+18:24:05|Error|Tipo di Errore: Il nodo non è presente
+18:24:05|Info|Nodo: /feed/subtitle
+18:24:05|Info|Nessun errore
+18:24:05|Error|Errore relativo al nodo: /feed/subtitle
+18:24:05|Error|Tipo di Errore: Nessun errore
+18:24:05|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+18:24:05|Error|Tipo di Errore: Il nodo non è presente
+18:24:05|Error|Livello di errore: 3
+18:24:05|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+18:24:05|Error|Tipo di Errore: Il nodo non è presente
+18:24:05|Error|Errore relativo al nodo: /feed/link[@rel='self']
+18:24:05|Error|Tipo di Errore: Il nodo non è presente
+18:24:05|Error|Livello di errore: 3
+18:24:05|Error|Errore relativo al nodo: /feed/link[@rel='self']
+18:24:05|Error|Tipo di Errore: Il nodo non è presente
+18:24:05|Error|Errore relativo al nodo: /feed/link[@rel='search']
+18:24:05|Error|Tipo di Errore: Il nodo non è unico
+18:24:05|Error|Livello di errore: 2
+18:24:05|Error|Errore relativo al nodo: /feed/link[@rel='search']
+18:24:05|Error|Tipo di Errore: Il nodo non è unico
+18:24:05|Error|Errore relativo al nodo: /feed/id
+18:24:05|Error|Tipo di Errore: Il nodo non è presente
+18:24:05|Error|Livello di errore: 3
+18:24:05|Error|Errore relativo al nodo: /feed/id
+18:24:05|Error|Tipo di Errore: Il nodo non è presente
+18:24:05|Error|Errore relativo al nodo: /feed/rights
+18:24:05|Error|Tipo di Errore: Il nodo non è presente
+18:24:05|Error|Livello di errore: 3
+18:24:05|Error|Errore relativo al nodo: /feed/rights
+18:24:05|Error|Tipo di Errore: Il nodo non è presente
+18:24:05|Error|Errore relativo al nodo: /feed/updated
+18:24:05|Error|Tipo di Errore: Il nodo non è presente
+18:24:05|Error|Livello di errore: 3
+18:24:05|Error|Errore relativo al nodo: /feed/updated
+18:24:05|Error|Tipo di Errore: Il nodo non è presente
+18:24:53|Error|Errore relativo al nodo: /feed/title
+18:24:53|Error|Tipo di Errore: Il nodo non è presente
+18:24:53|Error|Livello di errore: 2
+18:24:53|Error|Errore relativo al nodo: /feed/title
+18:24:53|Error|Tipo di Errore: Il nodo non è presente
+18:24:53|Info|Nodo: /feed/subtitle
+18:24:53|Info|Nessun errore
+18:24:53|Error|Errore relativo al nodo: /feed/subtitle
+18:24:53|Error|Tipo di Errore: Nessun errore
+18:24:53|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+18:24:53|Error|Tipo di Errore: Il nodo non è presente
+18:24:53|Error|Livello di errore: 3
+18:24:53|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+18:24:53|Error|Tipo di Errore: Il nodo non è presente
+18:24:53|Error|Errore relativo al nodo: /feed/link[@rel='self']
+18:24:53|Error|Tipo di Errore: Il nodo non è presente
+18:24:53|Error|Livello di errore: 3
+18:24:53|Error|Errore relativo al nodo: /feed/link[@rel='self']
+18:24:54|Error|Tipo di Errore: Il nodo non è presente
+18:24:54|Error|Errore relativo al nodo: /feed/link[@rel='search']
+18:24:54|Error|Tipo di Errore: Il nodo non è unico
+18:24:54|Error|Livello di errore: 2
+18:24:54|Error|Errore relativo al nodo: /feed/link[@rel='search']
+18:24:54|Error|Tipo di Errore: Il nodo non è unico
+18:24:54|Error|Errore relativo al nodo: /feed/id
+18:24:54|Error|Tipo di Errore: Il nodo non è presente
+18:24:54|Error|Livello di errore: 3
+18:24:54|Error|Errore relativo al nodo: /feed/id
+18:24:54|Error|Tipo di Errore: Il nodo non è presente
+18:24:54|Error|Errore relativo al nodo: /feed/rights
+18:24:54|Error|Tipo di Errore: Il nodo non è presente
+18:24:54|Error|Livello di errore: 3
+18:24:54|Error|Errore relativo al nodo: /feed/rights
+18:24:54|Error|Tipo di Errore: Il nodo non è presente
+18:24:54|Error|Errore relativo al nodo: /feed/updated
+18:24:54|Error|Tipo di Errore: Il nodo non è presente
+18:24:54|Error|Livello di errore: 3
+18:24:54|Error|Errore relativo al nodo: /feed/updated
+18:24:54|Error|Tipo di Errore: Il nodo non è presente
+18:25:27|Error|Errore relativo al nodo: /feed/title
+18:25:27|Error|Tipo di Errore: Il nodo non è presente
+18:25:27|Error|Livello di errore: 2
+18:25:27|Error|Errore relativo al nodo: /feed/title
+18:25:27|Error|Tipo di Errore: Il nodo non è presente
+18:25:27|Info|Nodo: /feed/subtitle
+18:25:27|Info|Nessun errore
+18:25:27|Error|Errore relativo al nodo: /feed/subtitle
+18:25:27|Error|Tipo di Errore: Nessun errore
+18:25:27|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+18:25:27|Error|Tipo di Errore: Il nodo non è presente
+18:25:27|Error|Livello di errore: 3
+18:25:27|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+18:25:27|Error|Tipo di Errore: Il nodo non è presente
+18:25:27|Error|Errore relativo al nodo: /feed/link[@rel='self']
+18:25:27|Error|Tipo di Errore: Il nodo non è presente
+18:25:27|Error|Livello di errore: 3
+18:25:27|Error|Errore relativo al nodo: /feed/link[@rel='self']
+18:25:27|Error|Tipo di Errore: Il nodo non è presente
+18:25:27|Error|Errore relativo al nodo: /feed/link[@rel='search']
+18:25:27|Error|Tipo di Errore: Il nodo non è unico
+18:25:27|Error|Livello di errore: 2
+18:25:27|Error|Errore relativo al nodo: /feed/link[@rel='search']
+18:25:27|Error|Tipo di Errore: Il nodo non è unico
+18:25:27|Error|Errore relativo al nodo: /feed/id
+18:25:27|Error|Tipo di Errore: Il nodo non è presente
+18:25:27|Error|Livello di errore: 3
+18:25:27|Error|Errore relativo al nodo: /feed/id
+18:25:27|Error|Tipo di Errore: Il nodo non è presente
+18:25:27|Error|Errore relativo al nodo: /feed/rights
+18:25:27|Error|Tipo di Errore: Il nodo non è presente
+18:25:27|Error|Livello di errore: 3
+18:25:27|Error|Errore relativo al nodo: /feed/rights
+18:25:27|Error|Tipo di Errore: Il nodo non è presente
+18:25:27|Error|Errore relativo al nodo: /feed/updated
+18:25:27|Error|Tipo di Errore: Il nodo non è presente
+18:25:27|Error|Livello di errore: 3
+18:25:27|Error|Errore relativo al nodo: /feed/updated
+18:25:27|Error|Tipo di Errore: Il nodo non è presente
+18:26:11|Info|Nodo: /feed/title
+18:26:11|Info|Nessun errore
+18:26:11|Error|Errore relativo al nodo: /feed/title
+18:26:11|Error|Tipo di Errore: Nessun errore
+18:26:11|Info|Nodo: /feed/subtitle
+18:26:11|Info|Nessun errore
+18:26:11|Error|Errore relativo al nodo: /feed/subtitle
+18:26:11|Error|Tipo di Errore: Nessun errore
+18:26:13|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+18:26:13|Error|Tipo di Errore: Il link non esiste
+18:26:13|Error|Livello di errore: 2
+18:26:13|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+18:26:13|Error|Tipo di Errore: Il link non esiste
+18:26:14|Error|Errore relativo al nodo: /feed/link[@rel='self']
+18:26:14|Error|Tipo di Errore: Il link non esiste
+18:26:14|Error|Livello di errore: 3
+18:26:14|Error|Errore relativo al nodo: /feed/link[@rel='self']
+18:26:14|Error|Tipo di Errore: Il link non esiste
+18:26:14|Info|Nodo: /feed/link[@rel='search']
+18:26:14|Info|Nessun errore
+18:26:14|Error|Errore relativo al nodo: /feed/link[@rel='search']
+18:26:14|Error|Tipo di Errore: Nessun errore
+18:26:14|Info|Nodo: /feed/id
+18:26:14|Info|Nessun errore
+18:26:14|Error|Errore relativo al nodo: /feed/id
+18:26:14|Error|Tipo di Errore: Nessun errore
+18:26:14|Info|Nodo: /feed/rights
+18:26:14|Info|Nessun errore
+18:26:14|Error|Errore relativo al nodo: /feed/rights
+18:26:14|Error|Tipo di Errore: Nessun errore
+18:26:14|Info|Nodo: /feed/author/name
+18:26:14|Info|Nessun errore
+18:26:14|Info|Nodo: /feed/author/email
+18:26:14|Info|Nessun errore
+18:26:14|Error|Errore relativo al nodo: nodo numero: 1 /feed/author/name
+18:26:14|Error|Tipo di Errore: Nessun errore
+18:26:14|Error|Errore relativo al nodo: nodo numero: 1 /feed/author/email
+18:26:14|Error|Tipo di Errore: Nessun errore
+18:26:14|Info|Nodo: /feed/updated
+18:26:14|Info|Nessun errore
+18:26:14|Error|Errore relativo al nodo: /feed/updated
+18:26:14|Error|Tipo di Errore: Nessun errore
+18:26:14|Info|Errori relativi al tag entry numero 1
+
+18:26:14|Info|Nodo: /feed/entry[1]/title
+18:26:14|Info|Nessun errore
+18:26:14|Error|Errore relativo al nodo: /feed/entry[1]/link[@rel='describedby']
+18:26:14|Error|Tipo di Errore: Il link non esiste
+18:26:14|Error|Livello di errore: 2
+18:26:14|Info|-4
+18:26:14|Error|Errore relativo al nodo: /feed/entry/link[@rel='alternate']
+18:26:14|Error|Tipo di Errore: Il nodo non è unico
+18:26:14|Error|Livello di errore: 3
+18:26:14|Info|Nodo: /feed/entry/id
+18:26:14|Info|Nessun errore
+18:26:14|Info|Nodo: /feed/entry/rights
+18:26:14|Info|Nessun errore
+18:26:14|Info|Nodo: /feed/entry/summary
+18:26:14|Info|Nessun errore
+18:26:14|Info|Nodo: /feed/entry/author/name
+18:26:14|Info|Nessun errore
+18:26:14|Info|Nodo: /feed/entry/author/email
+18:26:14|Info|Nessun errore
+18:26:14|Info|Nodo: /feed/entry[1]/updated
+18:26:14|Info|Nessun errore
+18:26:15|Info|Nodo: /feed/entry[1]/category
+18:26:15|Info|Nessun errore
+18:26:15|Info|Errori relativi al tag entry numero 2
+
+18:26:15|Info|Nodo: /feed/entry[2]/title
+18:26:15|Info|Nessun errore
+18:26:15|Error|Errore relativo al nodo: /feed/entry[2]/link[@rel='describedby']
+18:26:15|Error|Tipo di Errore: Il link non esiste
+18:26:15|Error|Livello di errore: 2
+18:26:15|Info|-4
+18:26:15|Error|Errore relativo al nodo: /feed/entry/link[@rel='alternate']
+18:26:15|Error|Tipo di Errore: Il nodo non è unico
+18:26:15|Error|Livello di errore: 3
+18:26:15|Info|Nodo: /feed/entry/id
+18:26:15|Info|Nessun errore
+18:26:15|Info|Nodo: /feed/entry/rights
+18:26:15|Info|Nessun errore
+18:26:15|Info|Nodo: /feed/entry/summary
+18:26:15|Info|Nessun errore
+18:26:15|Info|Nodo: /feed/entry/author/name
+18:26:15|Info|Nessun errore
+18:26:15|Info|Nodo: /feed/entry/author/email
+18:26:15|Info|Nessun errore
+18:26:15|Info|Nodo: /feed/entry[2]/updated
+18:26:15|Info|Nessun errore
+18:26:15|Info|Nodo: /feed/entry[2]/category
+18:26:15|Info|Nessun errore
+18:26:15|Info|Errori relativi al tag entry numero 3
+
+18:26:15|Info|Nodo: /feed/entry[3]/title
+18:26:15|Info|Nessun errore
+18:26:15|Error|Errore relativo al nodo: /feed/entry[3]/link[@rel='describedby']
+18:26:15|Error|Tipo di Errore: Il link non esiste
+18:26:15|Error|Livello di errore: 2
+18:26:15|Info|-4
+18:26:15|Error|Errore relativo al nodo: /feed/entry/link[@rel='alternate']
+18:26:15|Error|Tipo di Errore: Il nodo non è unico
+18:26:15|Error|Livello di errore: 3
+18:26:15|Info|Nodo: /feed/entry/id
+18:26:15|Info|Nessun errore
+18:26:15|Info|Nodo: /feed/entry/rights
+18:26:15|Info|Nessun errore
+18:26:15|Info|Nodo: /feed/entry/summary
+18:26:15|Info|Nessun errore
+18:26:15|Info|Nodo: /feed/entry/author/name
+18:26:15|Info|Nessun errore
+18:26:15|Info|Nodo: /feed/entry/author/email
+18:26:15|Info|Nessun errore
+18:26:15|Info|Nodo: /feed/entry[3]/updated
+18:26:15|Info|Nessun errore
+18:26:16|Info|Nodo: /feed/entry[3]/category
+18:26:16|Info|Nessun errore
+18:26:16|Error|Errore relativo al nodo: entry numero: 1 /feed/entry/title
+18:26:16|Error|Tipo di Errore: Nessun errore
+18:26:16|Error|Errore relativo al nodo: entry numero: 1 /feed/entry/link[@rel='describedby']
+18:26:16|Error|Tipo di Errore: Il link non esiste
+18:26:16|Error|Errore relativo al nodo: entry numero: 1 /feed/entry[1]/link[@rel='alternate']
+18:26:16|Error|Tipo di Errore: Il nodo non è unico
+18:26:16|Error|Errore relativo al nodo: entry numero: 1 /feed/entry[1]/id
+18:26:16|Error|Tipo di Errore: Nessun errore
+18:26:16|Error|Errore relativo al nodo: entry numero: 1 /feed/entry[1]/rights
+18:26:16|Error|Tipo di Errore: Nessun errore
+18:26:16|Error|Errore relativo al nodo: entry numero: 1 /feed/entry[1]/summary
+18:26:16|Error|Tipo di Errore: Nessun errore
+18:26:16|Error|Errore relativo al nodo: nodo numero: 1 /feed/entry/author/name
+18:26:16|Error|Tipo di Errore: Nessun errore
+18:26:16|Error|Errore relativo al nodo: nodo numero: 1 /feed/entry/author/email
+18:26:16|Error|Tipo di Errore: Nessun errore
+18:26:16|Error|Errore relativo al nodo: entry numero: 1 /feed/entry/updated
+18:26:16|Error|Tipo di Errore: Nessun errore
+18:26:16|Error|Errore relativo al nodo: entry numero: 1 . /feed/entry/category
+18:26:16|Error|Tipo di Errore: Nessun errore
+18:26:16|Error|Errore relativo al nodo: entry numero: 2 /feed/entry/title
+18:26:16|Error|Tipo di Errore: Nessun errore
+18:26:16|Error|Errore relativo al nodo: entry numero: 2 /feed/entry/link[@rel='describedby']
+18:26:16|Error|Tipo di Errore: Il link non esiste
+18:26:16|Error|Errore relativo al nodo: entry numero: 2 /feed/entry[2]/link[@rel='alternate']
+18:26:16|Error|Tipo di Errore: Il nodo non è unico
+18:26:16|Error|Errore relativo al nodo: entry numero: 2 /feed/entry[2]/id
+18:26:16|Error|Tipo di Errore: Nessun errore
+18:26:16|Error|Errore relativo al nodo: entry numero: 2 /feed/entry[2]/rights
+18:26:16|Error|Tipo di Errore: Nessun errore
+18:26:16|Error|Errore relativo al nodo: entry numero: 2 /feed/entry[2]/summary
+18:26:16|Error|Tipo di Errore: Nessun errore
+18:26:16|Error|Errore relativo al nodo: nodo numero: 1 /feed/entry/author/name
+18:26:16|Error|Tipo di Errore: Nessun errore
+18:26:16|Error|Errore relativo al nodo: nodo numero: 1 /feed/entry/author/email
+18:26:16|Error|Tipo di Errore: Nessun errore
+18:26:16|Error|Errore relativo al nodo: entry numero: 2 /feed/entry/updated
+18:26:16|Error|Tipo di Errore: Nessun errore
+18:26:16|Error|Errore relativo al nodo: entry numero: 2 . /feed/entry/category
+18:26:16|Error|Tipo di Errore: Nessun errore
+18:26:16|Error|Errore relativo al nodo: entry numero: 3 /feed/entry/title
+18:26:16|Error|Tipo di Errore: Nessun errore
+18:26:16|Error|Errore relativo al nodo: entry numero: 3 /feed/entry/link[@rel='describedby']
+18:26:16|Error|Tipo di Errore: Il link non esiste
+18:26:16|Error|Errore relativo al nodo: entry numero: 3 /feed/entry[3]/link[@rel='alternate']
+18:26:16|Error|Tipo di Errore: Il nodo non è unico
+18:26:16|Error|Errore relativo al nodo: entry numero: 3 /feed/entry[3]/id
+18:26:16|Error|Tipo di Errore: Nessun errore
+18:26:16|Error|Errore relativo al nodo: entry numero: 3 /feed/entry[3]/rights
+18:26:16|Error|Tipo di Errore: Nessun errore
+18:26:16|Error|Errore relativo al nodo: entry numero: 3 /feed/entry[3]/summary
+18:26:16|Error|Tipo di Errore: Nessun errore
+18:26:16|Error|Errore relativo al nodo: nodo numero: 1 /feed/entry/author/name
+18:26:16|Error|Tipo di Errore: Nessun errore
+18:26:16|Error|Errore relativo al nodo: nodo numero: 1 /feed/entry/author/email
+18:26:16|Error|Tipo di Errore: Nessun errore
+18:26:16|Error|Errore relativo al nodo: entry numero: 3 /feed/entry/updated
+18:26:17|Error|Tipo di Errore: Nessun errore
+18:26:17|Error|Errore relativo al nodo: entry numero: 3 . /feed/entry/category
+18:26:17|Error|Tipo di Errore: Nessun errore
+18:26:17|Info|ATOMIdrografiaDataset.xml
+18:26:17|Error|Errore relativo al nodo: /feed/title
+18:26:17|Error|Tipo di Errore: Il nodo non è presente
+18:26:17|Error|Livello di errore: 2
+18:26:17|Error|Errore relativo al nodo: /feed/title
+18:26:17|Error|Tipo di Errore: Il nodo non è presente
+18:26:17|Info|Nodo: /feed/subtitle
+18:26:17|Info|Nessun errore
+18:26:17|Error|Errore relativo al nodo: /feed/subtitle
+18:26:17|Error|Tipo di Errore: Nessun errore
+18:26:17|Error|Errore relativo al nodo: /feed/entry/id
+18:26:17|Error|Tipo di Errore: Il nodo non è presente
+18:26:17|Error|Livello di errore: 3
+18:26:17|Error|Errore relativo al nodo: /feed/id
+18:26:17|Error|Tipo di Errore: Il nodo non è presente
+18:26:17|Error|Errore relativo al nodo: /feed/rights
+18:26:17|Error|Tipo di Errore: Il nodo non è presente
+18:26:17|Error|Livello di errore: 3
+18:26:17|Error|Errore relativo al nodo: /feed/rights
+18:26:17|Error|Tipo di Errore: Il nodo non è presente
+18:26:17|Error|Errore relativo al nodo: /feed/updated
+18:26:17|Error|Tipo di Errore: Il nodo non è presente
+18:26:17|Error|Livello di errore: 3
+18:26:17|Error|Errore relativo al nodo: /feed/updated
+18:26:17|Error|Tipo di Errore: Il nodo non è presente
+18:26:17|Info|Nodo: /feed/link[@rel='describedby']
+18:26:17|Info|Nessun errore
+18:26:17|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+18:26:17|Error|Tipo di Errore: Nessun errore
+18:26:17|Error|Errore relativo al nodo: /feed/link[@rel='up']
+18:26:17|Error|Tipo di Errore: Il nodo non è unico
+18:26:17|Error|Livello di errore: 2
+18:26:17|Error|Errore relativo al nodo: /feed/link[@rel='up']
+18:26:17|Error|Tipo di Errore: Il nodo non è unico
+18:26:17|Info|ATOMIdrografiaDataset.xml
+18:26:17|Error|Errore relativo al nodo: /feed/title
+18:26:17|Error|Tipo di Errore: Il nodo non è presente
+18:26:17|Error|Livello di errore: 2
+18:26:17|Error|Errore relativo al nodo: /feed/title
+18:26:17|Error|Tipo di Errore: Il nodo non è presente
+18:26:17|Info|Nodo: /feed/subtitle
+18:26:17|Info|Nessun errore
+18:26:17|Error|Errore relativo al nodo: /feed/subtitle
+18:26:17|Error|Tipo di Errore: Nessun errore
+18:26:17|Error|Errore relativo al nodo: /feed/entry/id
+18:26:17|Error|Tipo di Errore: Il nodo non è presente
+18:26:17|Error|Livello di errore: 3
+18:26:17|Error|Errore relativo al nodo: /feed/id
+18:26:17|Error|Tipo di Errore: Il nodo non è presente
+18:26:17|Error|Errore relativo al nodo: /feed/rights
+18:26:17|Error|Tipo di Errore: Il nodo non è presente
+18:26:17|Error|Livello di errore: 3
+18:26:17|Error|Errore relativo al nodo: /feed/rights
+18:26:17|Error|Tipo di Errore: Il nodo non è presente
+18:26:17|Error|Errore relativo al nodo: /feed/updated
+18:26:17|Error|Tipo di Errore: Il nodo non è presente
+18:26:17|Error|Livello di errore: 3
+18:26:17|Error|Errore relativo al nodo: /feed/updated
+18:26:18|Error|Tipo di Errore: Il nodo non è presente
+18:26:18|Info|Nodo: /feed/link[@rel='describedby']
+18:26:18|Info|Nessun errore
+18:26:18|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+18:26:18|Error|Tipo di Errore: Nessun errore
+18:26:18|Error|Errore relativo al nodo: /feed/link[@rel='up']
+18:26:18|Error|Tipo di Errore: Il nodo non è unico
+18:26:18|Error|Livello di errore: 2
+18:26:18|Error|Errore relativo al nodo: /feed/link[@rel='up']
+18:26:18|Error|Tipo di Errore: Il nodo non è unico
+18:26:18|Info|ATOMIdrografiaDataset.xml
+18:26:18|Error|Errore relativo al nodo: /feed/title
+18:26:18|Error|Tipo di Errore: Il nodo non è presente
+18:26:18|Error|Livello di errore: 2
+18:26:18|Error|Errore relativo al nodo: /feed/title
+18:26:18|Error|Tipo di Errore: Il nodo non è presente
+18:26:18|Info|Nodo: /feed/subtitle
+18:26:18|Info|Nessun errore
+18:26:18|Error|Errore relativo al nodo: /feed/subtitle
+18:26:18|Error|Tipo di Errore: Nessun errore
+18:26:18|Error|Errore relativo al nodo: /feed/entry/id
+18:26:18|Error|Tipo di Errore: Il nodo non è presente
+18:26:18|Error|Livello di errore: 3
+18:26:18|Error|Errore relativo al nodo: /feed/id
+18:26:18|Error|Tipo di Errore: Il nodo non è presente
+18:26:18|Error|Errore relativo al nodo: /feed/rights
+18:26:18|Error|Tipo di Errore: Il nodo non è presente
+18:26:18|Error|Livello di errore: 3
+18:26:18|Error|Errore relativo al nodo: /feed/rights
+18:26:18|Error|Tipo di Errore: Il nodo non è presente
+18:26:18|Error|Errore relativo al nodo: /feed/updated
+18:26:18|Error|Tipo di Errore: Il nodo non è presente
+18:26:18|Error|Livello di errore: 3
+18:26:18|Error|Errore relativo al nodo: /feed/updated
+18:26:18|Error|Tipo di Errore: Il nodo non è presente
+18:26:18|Info|Nodo: /feed/link[@rel='describedby']
+18:26:18|Info|Nessun errore
+18:26:18|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+18:26:18|Error|Tipo di Errore: Nessun errore
+18:26:18|Error|Errore relativo al nodo: /feed/link[@rel='up']
+18:26:18|Error|Tipo di Errore: Il nodo non è unico
+18:26:18|Error|Livello di errore: 2
+18:26:18|Error|Errore relativo al nodo: /feed/link[@rel='up']
+18:26:18|Error|Tipo di Errore: Il nodo non è unico
+18:26:27|Info|aperto file
+18:26:27|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='self']
+18:26:27|Error|Tipo di Errore: Il nodo non è presente
+18:26:27|Error|Livello di errore: 3
+18:26:27|Error|/OpenSearchDescription/Url[@rel='self']
+18:26:27|Error|Tipo di Errore: Il nodo non è presente
+18:26:27|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='results'][1]
+18:26:27|Error|Tipo di Errore: Il nodo non è presente
+18:26:27|Error|Livello di errore: 3
+18:26:27|Error|/OpenSearchDescription/Url[@rel='results']
+18:26:27|Error|Tipo di Errore: Il nodo non è presente
+18:26:27|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='describedby']
+18:26:27|Error|Tipo di Errore: Il nodo non è presente
+18:26:27|Error|Livello di errore: 3
+18:26:27|Error|/OpenSearchDescription/Url[@rel='describedby']
+18:26:27|Error|Tipo di Errore: Il nodo non è presente
+18:26:27|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='results'][last()]
+18:26:27|Error|Tipo di Errore: Il nodo non è presente
+18:26:27|Error|Livello di errore: 3
+18:26:27|Error|/OpenSearchDescription/Url[@rel='results'][last()]
+18:26:27|Error|Tipo di Errore: Il nodo non è presente
+18:26:27|Info|Nodo: /OpenSearchDescription/Language
+18:26:27|Info|Nessun errore
+18:26:27|Error|/OpenSearchDescription/Language
+18:26:27|Error|Tipo di Errore: Nessun errore
+19:08:19|Error|Errore relativo al nodo: /feed/title
+19:08:19|Error|Tipo di Errore: Il nodo non è presente
+19:08:19|Error|Livello di errore: 2
+19:08:19|Error|Errore relativo al nodo: /feed/title
+19:08:19|Error|Tipo di Errore: Il nodo non è presente
+19:08:19|Info|Nodo: /feed/subtitle
+19:08:19|Info|Nessun errore
+19:08:19|Error|Errore relativo al nodo: /feed/subtitle
+19:08:19|Error|Tipo di Errore: Nessun errore
+19:08:19|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+19:08:19|Error|Tipo di Errore: Il nodo non è presente
+19:08:19|Error|Livello di errore: 3
+19:08:19|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+19:08:19|Error|Tipo di Errore: Il nodo non è presente
+19:08:19|Error|Errore relativo al nodo: /feed/link[@rel='self']
+19:08:19|Error|Tipo di Errore: Il nodo non è presente
+19:08:19|Error|Livello di errore: 3
+19:08:19|Error|Errore relativo al nodo: /feed/link[@rel='self']
+19:08:19|Error|Tipo di Errore: Il nodo non è presente
+19:08:19|Error|Errore relativo al nodo: /feed/link[@rel='search']
+19:08:19|Error|Tipo di Errore: Il nodo non è unico
+19:08:19|Error|Livello di errore: 2
+19:08:19|Error|Errore relativo al nodo: /feed/link[@rel='search']
+19:08:19|Error|Tipo di Errore: Il nodo non è unico
+19:08:19|Error|Errore relativo al nodo: /feed/id
+19:08:19|Error|Tipo di Errore: Il nodo non è presente
+19:08:19|Error|Livello di errore: 3
+19:08:19|Error|Errore relativo al nodo: /feed/id
+19:08:19|Error|Tipo di Errore: Il nodo non è presente
+19:08:19|Error|Errore relativo al nodo: /feed/rights
+19:08:19|Error|Tipo di Errore: Il nodo non è presente
+19:08:19|Error|Livello di errore: 3
+19:08:19|Error|Errore relativo al nodo: /feed/rights
+19:08:19|Error|Tipo di Errore: Il nodo non è presente
+19:08:19|Error|Errore relativo al nodo: /feed/updated
+19:08:19|Error|Tipo di Errore: Il nodo non è presente
+19:08:19|Error|Livello di errore: 3
+19:08:19|Error|Errore relativo al nodo: /feed/updated
+19:08:19|Error|Tipo di Errore: Il nodo non è presente
+19:09:20|Error|Errore relativo al nodo: /feed/title
+19:09:20|Error|Tipo di Errore: Il nodo non è presente
+19:09:20|Error|Livello di errore: 2
+19:09:20|Error|Errore relativo al nodo: /feed/title
+19:09:20|Error|Tipo di Errore: Il nodo non è presente
+19:09:20|Info|Nodo: /feed/subtitle
+19:09:20|Info|Nessun errore
+19:09:20|Error|Errore relativo al nodo: /feed/subtitle
+19:09:20|Error|Tipo di Errore: Nessun errore
+19:09:20|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+19:09:20|Error|Tipo di Errore: Il nodo non è presente
+19:09:20|Error|Livello di errore: 3
+19:09:20|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+19:09:20|Error|Tipo di Errore: Il nodo non è presente
+19:09:20|Error|Errore relativo al nodo: /feed/link[@rel='self']
+19:09:20|Error|Tipo di Errore: Il nodo non è presente
+19:09:20|Error|Livello di errore: 3
+19:09:20|Error|Errore relativo al nodo: /feed/link[@rel='self']
+19:09:20|Error|Tipo di Errore: Il nodo non è presente
+19:09:20|Error|Errore relativo al nodo: /feed/link[@rel='search']
+19:09:20|Error|Tipo di Errore: Il nodo non è unico
+19:09:20|Error|Livello di errore: 2
+19:09:20|Error|Errore relativo al nodo: /feed/link[@rel='search']
+19:09:20|Error|Tipo di Errore: Il nodo non è unico
+19:09:20|Error|Errore relativo al nodo: /feed/id
+19:09:20|Error|Tipo di Errore: Il nodo non è presente
+19:09:20|Error|Livello di errore: 3
+19:09:20|Error|Errore relativo al nodo: /feed/id
+19:09:20|Error|Tipo di Errore: Il nodo non è presente
+19:09:20|Error|Errore relativo al nodo: /feed/rights
+19:09:20|Error|Tipo di Errore: Il nodo non è presente
+19:09:20|Error|Livello di errore: 3
+19:09:20|Error|Errore relativo al nodo: /feed/rights
+19:09:20|Error|Tipo di Errore: Il nodo non è presente
+19:09:20|Error|Errore relativo al nodo: /feed/updated
+19:09:20|Error|Tipo di Errore: Il nodo non è presente
+19:09:20|Error|Livello di errore: 3
+19:09:20|Error|Errore relativo al nodo: /feed/updated
+19:09:20|Error|Tipo di Errore: Il nodo non è presente
+19:12:19|Error|Errore relativo al nodo: /feed/title
+19:12:19|Error|Tipo di Errore: Il nodo non è presente
+19:12:19|Error|Livello di errore: 2
+19:12:19|Error|Errore relativo al nodo: /feed/title
+19:12:19|Error|Tipo di Errore: Il nodo non è presente
+19:12:19|Info|Nodo: /feed/subtitle
+19:12:19|Info|Nessun errore
+19:12:19|Error|Errore relativo al nodo: /feed/subtitle
+19:12:19|Error|Tipo di Errore: Nessun errore
+19:12:19|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+19:12:19|Error|Tipo di Errore: Il nodo non è presente
+19:12:19|Error|Livello di errore: 3
+19:12:19|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+19:12:19|Error|Tipo di Errore: Il nodo non è presente
+19:12:19|Error|Errore relativo al nodo: /feed/link[@rel='self']
+19:12:19|Error|Tipo di Errore: Il nodo non è presente
+19:12:19|Error|Livello di errore: 3
+19:12:19|Error|Errore relativo al nodo: /feed/link[@rel='self']
+19:12:20|Error|Tipo di Errore: Il nodo non è presente
+19:12:20|Error|Errore relativo al nodo: /feed/link[@rel='search']
+19:12:20|Error|Tipo di Errore: Il nodo non è unico
+19:12:20|Error|Livello di errore: 2
+19:12:20|Error|Errore relativo al nodo: /feed/link[@rel='search']
+19:12:20|Error|Tipo di Errore: Il nodo non è unico
+19:12:20|Error|Errore relativo al nodo: /feed/id
+19:12:20|Error|Tipo di Errore: Il nodo non è presente
+19:12:20|Error|Livello di errore: 3
+19:12:20|Error|Errore relativo al nodo: /feed/id
+19:12:20|Error|Tipo di Errore: Il nodo non è presente
+19:12:20|Error|Errore relativo al nodo: /feed/rights
+19:12:20|Error|Tipo di Errore: Il nodo non è presente
+19:12:20|Error|Livello di errore: 3
+19:12:20|Error|Errore relativo al nodo: /feed/rights
+19:12:20|Error|Tipo di Errore: Il nodo non è presente
+19:12:20|Error|Errore relativo al nodo: /feed/updated
+19:12:20|Error|Tipo di Errore: Il nodo non è presente
+19:12:20|Error|Livello di errore: 3
+19:12:20|Error|Errore relativo al nodo: /feed/updated
+19:12:20|Error|Tipo di Errore: Il nodo non è presente
+19:13:48|Error|Errore relativo al nodo: /feed/title
+19:13:48|Error|Tipo di Errore: Il nodo non è presente
+19:13:48|Error|Livello di errore: 2
+19:13:48|Error|Errore relativo al nodo: /feed/title
+19:13:48|Error|Tipo di Errore: Il nodo non è presente
+19:13:48|Info|Nodo: /feed/subtitle
+19:13:48|Info|Nessun errore
+19:13:48|Error|Errore relativo al nodo: /feed/subtitle
+19:13:48|Error|Tipo di Errore: Nessun errore
+19:13:48|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+19:13:48|Error|Tipo di Errore: Il nodo non è presente
+19:13:48|Error|Livello di errore: 3
+19:13:48|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+19:13:48|Error|Tipo di Errore: Il nodo non è presente
+19:13:48|Error|Errore relativo al nodo: /feed/link[@rel='self']
+19:13:48|Error|Tipo di Errore: Il nodo non è presente
+19:13:48|Error|Livello di errore: 3
+19:13:48|Error|Errore relativo al nodo: /feed/link[@rel='self']
+19:13:48|Error|Tipo di Errore: Il nodo non è presente
+19:13:48|Error|Errore relativo al nodo: /feed/link[@rel='search']
+19:13:48|Error|Tipo di Errore: Il nodo non è unico
+19:13:48|Error|Livello di errore: 2
+19:13:48|Error|Errore relativo al nodo: /feed/link[@rel='search']
+19:13:48|Error|Tipo di Errore: Il nodo non è unico
+19:13:48|Error|Errore relativo al nodo: /feed/id
+19:13:48|Error|Tipo di Errore: Il nodo non è presente
+19:13:48|Error|Livello di errore: 3
+19:13:48|Error|Errore relativo al nodo: /feed/id
+19:13:48|Error|Tipo di Errore: Il nodo non è presente
+19:13:48|Error|Errore relativo al nodo: /feed/rights
+19:13:48|Error|Tipo di Errore: Il nodo non è presente
+19:13:48|Error|Livello di errore: 3
+19:13:48|Error|Errore relativo al nodo: /feed/rights
+19:13:48|Error|Tipo di Errore: Il nodo non è presente
+19:13:48|Error|Errore relativo al nodo: /feed/updated
+19:13:48|Error|Tipo di Errore: Il nodo non è presente
+19:13:48|Error|Livello di errore: 3
+19:13:48|Error|Errore relativo al nodo: /feed/updated
+19:13:48|Error|Tipo di Errore: Il nodo non è presente
+19:14:46|Error|Errore relativo al nodo: /feed/title
+19:14:46|Error|Tipo di Errore: Il nodo non è presente
+19:14:46|Error|Livello di errore: 2
+19:14:46|Error|Errore relativo al nodo: /feed/title
+19:14:46|Error|Tipo di Errore: Il nodo non è presente
+19:14:46|Info|Nodo: /feed/subtitle
+19:14:46|Info|Nessun errore
+19:14:46|Error|Errore relativo al nodo: /feed/subtitle
+19:14:46|Error|Tipo di Errore: Nessun errore
+19:14:46|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+19:14:46|Error|Tipo di Errore: Il nodo non è presente
+19:14:46|Error|Livello di errore: 3
+19:14:46|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+19:14:46|Error|Tipo di Errore: Il nodo non è presente
+19:14:46|Error|Errore relativo al nodo: /feed/link[@rel='self']
+19:14:46|Error|Tipo di Errore: Il nodo non è presente
+19:14:46|Error|Livello di errore: 3
+19:14:46|Error|Errore relativo al nodo: /feed/link[@rel='self']
+19:14:46|Error|Tipo di Errore: Il nodo non è presente
+19:14:46|Error|Errore relativo al nodo: /feed/link[@rel='search']
+19:14:46|Error|Tipo di Errore: Il nodo non è unico
+19:14:46|Error|Livello di errore: 2
+19:14:46|Error|Errore relativo al nodo: /feed/link[@rel='search']
+19:14:46|Error|Tipo di Errore: Il nodo non è unico
+19:14:46|Error|Errore relativo al nodo: /feed/id
+19:14:46|Error|Tipo di Errore: Il nodo non è presente
+19:14:46|Error|Livello di errore: 3
+19:14:46|Error|Errore relativo al nodo: /feed/id
+19:14:46|Error|Tipo di Errore: Il nodo non è presente
+19:14:46|Error|Errore relativo al nodo: /feed/rights
+19:14:46|Error|Tipo di Errore: Il nodo non è presente
+19:14:46|Error|Livello di errore: 3
+19:14:46|Error|Errore relativo al nodo: /feed/rights
+19:14:46|Error|Tipo di Errore: Il nodo non è presente
+19:14:46|Error|Errore relativo al nodo: /feed/updated
+19:14:46|Error|Tipo di Errore: Il nodo non è presente
+19:14:46|Error|Livello di errore: 3
+19:14:46|Error|Errore relativo al nodo: /feed/updated
+19:14:46|Error|Tipo di Errore: Il nodo non è presente
+19:16:55|Error|Errore relativo al nodo: /feed/title
+19:16:55|Error|Tipo di Errore: Il nodo non è presente
+19:16:55|Error|Livello di errore: 2
+19:16:55|Error|Errore relativo al nodo: /feed/title
+19:16:55|Error|Tipo di Errore: Il nodo non è presente
+19:16:55|Info|Nodo: /feed/subtitle
+19:16:55|Info|Nessun errore
+19:16:55|Error|Errore relativo al nodo: /feed/subtitle
+19:16:55|Error|Tipo di Errore: Nessun errore
+19:16:55|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+19:16:55|Error|Tipo di Errore: Il nodo non è presente
+19:16:55|Error|Livello di errore: 3
+19:16:55|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+19:16:55|Error|Tipo di Errore: Il nodo non è presente
+19:16:55|Error|Errore relativo al nodo: /feed/link[@rel='self']
+19:16:55|Error|Tipo di Errore: Il nodo non è presente
+19:16:55|Error|Livello di errore: 3
+19:16:55|Error|Errore relativo al nodo: /feed/link[@rel='self']
+19:16:56|Error|Tipo di Errore: Il nodo non è presente
+19:16:56|Error|Errore relativo al nodo: /feed/link[@rel='search']
+19:16:56|Error|Tipo di Errore: Il nodo non è unico
+19:16:56|Error|Livello di errore: 2
+19:16:56|Error|Errore relativo al nodo: /feed/link[@rel='search']
+19:16:56|Error|Tipo di Errore: Il nodo non è unico
+19:16:56|Error|Errore relativo al nodo: /feed/id
+19:16:56|Error|Tipo di Errore: Il nodo non è presente
+19:16:56|Error|Livello di errore: 3
+19:16:56|Error|Errore relativo al nodo: /feed/id
+19:16:56|Error|Tipo di Errore: Il nodo non è presente
+19:16:56|Error|Errore relativo al nodo: /feed/rights
+19:16:56|Error|Tipo di Errore: Il nodo non è presente
+19:16:56|Error|Livello di errore: 3
+19:16:56|Error|Errore relativo al nodo: /feed/rights
+19:16:56|Error|Tipo di Errore: Il nodo non è presente
+19:16:56|Error|Errore relativo al nodo: /feed/updated
+19:16:56|Error|Tipo di Errore: Il nodo non è presente
+19:16:56|Error|Livello di errore: 3
+19:16:56|Error|Errore relativo al nodo: /feed/updated
+19:16:56|Error|Tipo di Errore: Il nodo non è presente
+19:18:34|Error|Errore relativo al nodo: /feed/title
+19:18:34|Error|Tipo di Errore: Il nodo non è presente
+19:18:34|Error|Livello di errore: 2
+19:18:34|Error|Errore relativo al nodo: /feed/title
+19:18:34|Error|Tipo di Errore: Il nodo non è presente
+19:18:34|Info|Nodo: /feed/subtitle
+19:18:34|Info|Nessun errore
+19:18:34|Error|Errore relativo al nodo: /feed/subtitle
+19:18:34|Error|Tipo di Errore: Nessun errore
+19:18:34|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+19:18:34|Error|Tipo di Errore: Il nodo non è presente
+19:18:34|Error|Livello di errore: 3
+19:18:34|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+19:18:34|Error|Tipo di Errore: Il nodo non è presente
+19:18:34|Error|Errore relativo al nodo: /feed/link[@rel='self']
+19:18:34|Error|Tipo di Errore: Il nodo non è presente
+19:18:34|Error|Livello di errore: 3
+19:18:34|Error|Errore relativo al nodo: /feed/link[@rel='self']
+19:18:34|Error|Tipo di Errore: Il nodo non è presente
+19:18:34|Error|Errore relativo al nodo: /feed/link[@rel='search']
+19:18:34|Error|Tipo di Errore: Il nodo non è unico
+19:18:34|Error|Livello di errore: 2
+19:18:34|Error|Errore relativo al nodo: /feed/link[@rel='search']
+19:18:34|Error|Tipo di Errore: Il nodo non è unico
+19:18:34|Error|Errore relativo al nodo: /feed/id
+19:18:34|Error|Tipo di Errore: Il nodo non è presente
+19:18:34|Error|Livello di errore: 3
+19:18:34|Error|Errore relativo al nodo: /feed/id
+19:18:34|Error|Tipo di Errore: Il nodo non è presente
+19:18:34|Error|Errore relativo al nodo: /feed/rights
+19:18:34|Error|Tipo di Errore: Il nodo non è presente
+19:18:34|Error|Livello di errore: 3
+19:18:34|Error|Errore relativo al nodo: /feed/rights
+19:18:34|Error|Tipo di Errore: Il nodo non è presente
+19:18:34|Error|Errore relativo al nodo: /feed/updated
+19:18:34|Error|Tipo di Errore: Il nodo non è presente
+19:18:34|Error|Livello di errore: 3
+19:18:34|Error|Errore relativo al nodo: /feed/updated
+19:18:34|Error|Tipo di Errore: Il nodo non è presente
+19:20:51|Error|Errore relativo al nodo: /feed/title
+19:20:51|Error|Tipo di Errore: Il nodo non è presente
+19:20:51|Error|Livello di errore: 2
+19:20:51|Error|Errore relativo al nodo: /feed/title
+19:20:51|Error|Tipo di Errore: Il nodo non è presente
+19:20:51|Info|Nodo: /feed/subtitle
+19:20:51|Info|Nessun errore
+19:20:51|Error|Errore relativo al nodo: /feed/subtitle
+19:20:51|Error|Tipo di Errore: Nessun errore
+19:20:51|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+19:20:51|Error|Tipo di Errore: Il nodo non è presente
+19:20:51|Error|Livello di errore: 3
+19:20:51|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+19:20:51|Error|Tipo di Errore: Il nodo non è presente
+19:20:51|Error|Errore relativo al nodo: /feed/link[@rel='self']
+19:20:51|Error|Tipo di Errore: Il nodo non è presente
+19:20:51|Error|Livello di errore: 3
+19:20:51|Error|Errore relativo al nodo: /feed/link[@rel='self']
+19:20:51|Error|Tipo di Errore: Il nodo non è presente
+19:20:51|Error|Errore relativo al nodo: /feed/link[@rel='search']
+19:20:51|Error|Tipo di Errore: Il nodo non è unico
+19:20:51|Error|Livello di errore: 2
+19:20:51|Error|Errore relativo al nodo: /feed/link[@rel='search']
+19:20:51|Error|Tipo di Errore: Il nodo non è unico
+19:20:51|Error|Errore relativo al nodo: /feed/id
+19:20:51|Error|Tipo di Errore: Il nodo non è presente
+19:20:51|Error|Livello di errore: 3
+19:20:51|Error|Errore relativo al nodo: /feed/id
+19:20:51|Error|Tipo di Errore: Il nodo non è presente
+19:20:51|Error|Errore relativo al nodo: /feed/rights
+19:20:51|Error|Tipo di Errore: Il nodo non è presente
+19:20:51|Error|Livello di errore: 3
+19:20:51|Error|Errore relativo al nodo: /feed/rights
+19:20:51|Error|Tipo di Errore: Il nodo non è presente
+19:20:51|Error|Errore relativo al nodo: /feed/updated
+19:20:51|Error|Tipo di Errore: Il nodo non è presente
+19:20:51|Error|Livello di errore: 3
+19:20:51|Error|Errore relativo al nodo: /feed/updated
+19:20:51|Error|Tipo di Errore: Il nodo non è presente
+19:21:15|Info|aperto file
+19:21:15|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='self']
+19:21:15|Error|Tipo di Errore: Il nodo non è presente
+19:21:15|Error|Livello di errore: 3
+19:21:15|Error|/OpenSearchDescription/Url[@rel='self']
+19:21:15|Error|Tipo di Errore: Il nodo non è presente
+19:21:15|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='results'][1]
+19:21:15|Error|Tipo di Errore: Il nodo non è presente
+19:21:15|Error|Livello di errore: 3
+19:21:15|Error|/OpenSearchDescription/Url[@rel='results']
+19:21:15|Error|Tipo di Errore: Il nodo non è presente
+19:21:15|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='describedby']
+19:21:15|Error|Tipo di Errore: Il nodo non è presente
+19:21:15|Error|Livello di errore: 3
+19:21:15|Error|/OpenSearchDescription/Url[@rel='describedby']
+19:21:15|Error|Tipo di Errore: Il nodo non è presente
+19:21:15|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='results'][last()]
+19:21:15|Error|Tipo di Errore: Il nodo non è presente
+19:21:15|Error|Livello di errore: 3
+19:21:15|Error|/OpenSearchDescription/Url[@rel='results'][last()]
+19:21:15|Error|Tipo di Errore: Il nodo non è presente
+19:21:15|Info|Nodo: /OpenSearchDescription/Language
+19:21:15|Info|Nessun errore
+19:21:15|Error|/OpenSearchDescription/Language
+19:21:15|Error|Tipo di Errore: Nessun errore
+08:42:11|Error|Errore relativo al nodo: /feed/title
+08:42:11|Error|Tipo di Errore: Il nodo non è presente
+08:42:11|Error|Livello di errore: 2
+08:42:11|Error|Errore relativo al nodo: /feed/title
+08:42:11|Error|Tipo di Errore: Il nodo non è presente
+08:42:11|Info|Nodo: /feed/subtitle
+08:42:11|Info|Nessun errore
+08:42:11|Error|Errore relativo al nodo: /feed/subtitle
+08:42:11|Error|Tipo di Errore: Nessun errore
+08:42:11|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+08:42:11|Error|Tipo di Errore: Il nodo non è presente
+08:42:11|Error|Livello di errore: 3
+08:42:11|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+08:42:11|Error|Tipo di Errore: Il nodo non è presente
+08:42:11|Error|Errore relativo al nodo: /feed/link[@rel='self']
+08:42:11|Error|Tipo di Errore: Il nodo non è presente
+08:42:11|Error|Livello di errore: 3
+08:42:11|Error|Errore relativo al nodo: /feed/link[@rel='self']
+08:42:11|Error|Tipo di Errore: Il nodo non è presente
+08:42:11|Error|Errore relativo al nodo: /feed/link[@rel='search']
+08:42:11|Error|Tipo di Errore: Il nodo non è unico
+08:42:11|Error|Livello di errore: 2
+08:42:11|Error|Errore relativo al nodo: /feed/link[@rel='search']
+08:42:11|Error|Tipo di Errore: Il nodo non è unico
+08:42:11|Error|Errore relativo al nodo: /feed/id
+08:42:11|Error|Tipo di Errore: Il nodo non è presente
+08:42:11|Error|Livello di errore: 3
+08:42:11|Error|Errore relativo al nodo: /feed/id
+08:42:11|Error|Tipo di Errore: Il nodo non è presente
+08:42:11|Error|Errore relativo al nodo: /feed/rights
+08:42:11|Error|Tipo di Errore: Il nodo non è presente
+08:42:11|Error|Livello di errore: 3
+08:42:11|Error|Errore relativo al nodo: /feed/rights
+08:42:11|Error|Tipo di Errore: Il nodo non è presente
+08:42:11|Error|Errore relativo al nodo: /feed/updated
+08:42:11|Error|Tipo di Errore: Il nodo non è presente
+08:42:11|Error|Livello di errore: 3
+08:42:11|Error|Errore relativo al nodo: /feed/updated
+08:42:11|Error|Tipo di Errore: Il nodo non è presente
+08:42:11|Error|Errore relativo al nodo: /atom:feed/atom:link[@rel='search']
+08:42:11|Error|Tipo di Errore: Il file non esiste
+08:42:11|Error|Livello di errore: 3
+08:44:19|Error|Errore relativo al nodo: /feed/title
+08:44:19|Error|Tipo di Errore: Il nodo non è presente
+08:44:19|Error|Livello di errore: 2
+08:44:19|Error|Errore relativo al nodo: /feed/title
+08:44:19|Error|Tipo di Errore: Il nodo non è presente
+08:44:19|Info|Nodo: /feed/subtitle
+08:44:19|Info|Nessun errore
+08:44:19|Error|Errore relativo al nodo: /feed/subtitle
+08:44:19|Error|Tipo di Errore: Nessun errore
+08:44:19|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+08:44:19|Error|Tipo di Errore: Il nodo non è presente
+08:44:19|Error|Livello di errore: 3
+08:44:19|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+08:44:19|Error|Tipo di Errore: Il nodo non è presente
+08:44:19|Error|Errore relativo al nodo: /feed/link[@rel='self']
+08:44:19|Error|Tipo di Errore: Il nodo non è presente
+08:44:19|Error|Livello di errore: 3
+08:44:19|Error|Errore relativo al nodo: /feed/link[@rel='self']
+08:44:19|Error|Tipo di Errore: Il nodo non è presente
+08:44:19|Error|Errore relativo al nodo: /feed/link[@rel='search']
+08:44:19|Error|Tipo di Errore: Il nodo non è unico
+08:44:19|Error|Livello di errore: 2
+08:44:19|Error|Errore relativo al nodo: /feed/link[@rel='search']
+08:44:19|Error|Tipo di Errore: Il nodo non è unico
+08:44:19|Error|Errore relativo al nodo: /feed/id
+08:44:19|Error|Tipo di Errore: Il nodo non è presente
+08:44:19|Error|Livello di errore: 3
+08:44:19|Error|Errore relativo al nodo: /feed/id
+08:44:19|Error|Tipo di Errore: Il nodo non è presente
+08:44:19|Error|Errore relativo al nodo: /feed/rights
+08:44:19|Error|Tipo di Errore: Il nodo non è presente
+08:44:19|Error|Livello di errore: 3
+08:44:20|Error|Errore relativo al nodo: /feed/rights
+08:44:20|Error|Tipo di Errore: Il nodo non è presente
+08:44:20|Error|Errore relativo al nodo: /feed/updated
+08:44:20|Error|Tipo di Errore: Il nodo non è presente
+08:44:20|Error|Livello di errore: 3
+08:44:20|Error|Errore relativo al nodo: /feed/updated
+08:44:20|Error|Tipo di Errore: Il nodo non è presente
+08:44:20|Error|Errore relativo al nodo: /atom:feed/atom:link[@rel='search']
+08:44:20|Error|Tipo di Errore: Il file non esiste
+08:44:20|Error|Livello di errore: 3
+08:45:16|Error|Errore relativo al nodo: /feed/title
+08:45:16|Error|Tipo di Errore: Il nodo non è presente
+08:45:16|Error|Livello di errore: 2
+08:45:16|Error|Errore relativo al nodo: /feed/title
+08:45:16|Error|Tipo di Errore: Il nodo non è presente
+08:45:16|Info|Nodo: /feed/subtitle
+08:45:16|Info|Nessun errore
+08:45:16|Error|Errore relativo al nodo: /feed/subtitle
+08:45:16|Error|Tipo di Errore: Nessun errore
+08:45:16|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+08:45:16|Error|Tipo di Errore: Il nodo non è presente
+08:45:16|Error|Livello di errore: 3
+08:45:16|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+08:45:16|Error|Tipo di Errore: Il nodo non è presente
+08:45:16|Error|Errore relativo al nodo: /feed/link[@rel='self']
+08:45:16|Error|Tipo di Errore: Il nodo non è presente
+08:45:16|Error|Livello di errore: 3
+08:45:16|Error|Errore relativo al nodo: /feed/link[@rel='self']
+08:45:16|Error|Tipo di Errore: Il nodo non è presente
+08:45:16|Error|Errore relativo al nodo: /feed/link[@rel='search']
+08:45:16|Error|Tipo di Errore: Il nodo non è unico
+08:45:16|Error|Livello di errore: 2
+08:45:16|Error|Errore relativo al nodo: /feed/link[@rel='search']
+08:45:16|Error|Tipo di Errore: Il nodo non è unico
+08:45:16|Error|Errore relativo al nodo: /feed/id
+08:45:16|Error|Tipo di Errore: Il nodo non è presente
+08:45:16|Error|Livello di errore: 3
+08:45:16|Error|Errore relativo al nodo: /feed/id
+08:45:16|Error|Tipo di Errore: Il nodo non è presente
+08:45:16|Error|Errore relativo al nodo: /feed/rights
+08:45:16|Error|Tipo di Errore: Il nodo non è presente
+08:45:16|Error|Livello di errore: 3
+08:45:17|Error|Errore relativo al nodo: /feed/rights
+08:45:17|Error|Tipo di Errore: Il nodo non è presente
+08:45:17|Error|Errore relativo al nodo: /feed/updated
+08:45:17|Error|Tipo di Errore: Il nodo non è presente
+08:45:17|Error|Livello di errore: 3
+08:45:17|Error|Errore relativo al nodo: /feed/updated
+08:45:17|Error|Tipo di Errore: Il nodo non è presente
+08:46:25|Error|Errore relativo al nodo: /feed/title
+08:46:25|Error|Tipo di Errore: Il nodo non è presente
+08:46:25|Error|Livello di errore: 2
+08:46:25|Error|Errore relativo al nodo: /feed/title
+08:46:25|Error|Tipo di Errore: Il nodo non è presente
+08:46:25|Info|Nodo: /feed/subtitle
+08:46:25|Info|Nessun errore
+08:46:25|Error|Errore relativo al nodo: /feed/subtitle
+08:46:25|Error|Tipo di Errore: Nessun errore
+08:46:25|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+08:46:25|Error|Tipo di Errore: Il nodo non è presente
+08:46:25|Error|Livello di errore: 3
+08:46:25|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+08:46:25|Error|Tipo di Errore: Il nodo non è presente
+08:46:25|Error|Errore relativo al nodo: /feed/link[@rel='self']
+08:46:25|Error|Tipo di Errore: Il nodo non è presente
+08:46:25|Error|Livello di errore: 3
+08:46:25|Error|Errore relativo al nodo: /feed/link[@rel='self']
+08:46:25|Error|Tipo di Errore: Il nodo non è presente
+08:46:25|Error|Errore relativo al nodo: /feed/link[@rel='search']
+08:46:25|Error|Tipo di Errore: Il nodo non è unico
+08:46:25|Error|Livello di errore: 2
+08:46:25|Error|Errore relativo al nodo: /feed/link[@rel='search']
+08:46:25|Error|Tipo di Errore: Il nodo non è unico
+08:46:25|Error|Errore relativo al nodo: /feed/id
+08:46:25|Error|Tipo di Errore: Il nodo non è presente
+08:46:25|Error|Livello di errore: 3
+08:46:25|Error|Errore relativo al nodo: /feed/id
+08:46:25|Error|Tipo di Errore: Il nodo non è presente
+08:46:25|Error|Errore relativo al nodo: /feed/rights
+08:46:25|Error|Tipo di Errore: Il nodo non è presente
+08:46:25|Error|Livello di errore: 3
+08:46:25|Error|Errore relativo al nodo: /feed/rights
+08:46:25|Error|Tipo di Errore: Il nodo non è presente
+08:46:25|Error|Errore relativo al nodo: /feed/updated
+08:46:25|Error|Tipo di Errore: Il nodo non è presente
+08:46:25|Error|Livello di errore: 3
+08:46:25|Error|Errore relativo al nodo: /feed/updated
+08:46:25|Error|Tipo di Errore: Il nodo non è presente
+08:46:48|Info|aperto file
+08:46:48|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='self']
+08:46:48|Error|Tipo di Errore: Il nodo non è presente
+08:46:48|Error|Livello di errore: 3
+08:46:48|Error|/OpenSearchDescription/Url[@rel='self']
+08:46:48|Error|Tipo di Errore: Il nodo non è presente
+08:46:48|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='results'][1]
+08:46:48|Error|Tipo di Errore: Il nodo non è presente
+08:46:48|Error|Livello di errore: 3
+08:46:48|Error|/OpenSearchDescription/Url[@rel='results']
+08:46:48|Error|Tipo di Errore: Il nodo non è presente
+08:46:48|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='describedby']
+08:46:48|Error|Tipo di Errore: Il nodo non è presente
+08:46:48|Error|Livello di errore: 3
+08:46:48|Error|/OpenSearchDescription/Url[@rel='describedby']
+08:46:48|Error|Tipo di Errore: Il nodo non è presente
+08:46:48|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='results'][last()]
+08:46:48|Error|Tipo di Errore: Il nodo non è presente
+08:46:48|Error|Livello di errore: 3
+08:46:48|Error|/OpenSearchDescription/Url[@rel='results'][last()]
+08:46:48|Error|Tipo di Errore: Il nodo non è presente
+08:46:48|Info|Nodo: /OpenSearchDescription/Language
+08:46:48|Info|Nessun errore
+08:46:48|Error|/OpenSearchDescription/Language
+08:46:48|Error|Tipo di Errore: Nessun errore
+08:47:34|Error|Errore relativo al nodo: /feed/title
+08:47:34|Error|Tipo di Errore: Il nodo non è presente
+08:47:34|Error|Livello di errore: 2
+08:47:34|Error|Errore relativo al nodo: /feed/title
+08:47:34|Error|Tipo di Errore: Il nodo non è presente
+08:47:34|Info|Nodo: /feed/subtitle
+08:47:34|Info|Nessun errore
+08:47:34|Error|Errore relativo al nodo: /feed/subtitle
+08:47:34|Error|Tipo di Errore: Nessun errore
+08:47:34|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+08:47:34|Error|Tipo di Errore: Il nodo non è presente
+08:47:34|Error|Livello di errore: 3
+08:47:34|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+08:47:34|Error|Tipo di Errore: Il nodo non è presente
+08:47:34|Error|Errore relativo al nodo: /feed/link[@rel='self']
+08:47:34|Error|Tipo di Errore: Il nodo non è presente
+08:47:34|Error|Livello di errore: 3
+08:47:34|Error|Errore relativo al nodo: /feed/link[@rel='self']
+08:47:34|Error|Tipo di Errore: Il nodo non è presente
+08:47:34|Error|Errore relativo al nodo: /feed/link[@rel='search']
+08:47:34|Error|Tipo di Errore: Il nodo non è unico
+08:47:34|Error|Livello di errore: 2
+08:47:34|Error|Errore relativo al nodo: /feed/link[@rel='search']
+08:47:34|Error|Tipo di Errore: Il nodo non è unico
+08:47:34|Error|Errore relativo al nodo: /feed/id
+08:47:34|Error|Tipo di Errore: Il nodo non è presente
+08:47:34|Error|Livello di errore: 3
+08:47:34|Error|Errore relativo al nodo: /feed/id
+08:47:35|Error|Tipo di Errore: Il nodo non è presente
+08:47:35|Error|Errore relativo al nodo: /feed/rights
+08:47:35|Error|Tipo di Errore: Il nodo non è presente
+08:47:35|Error|Livello di errore: 3
+08:47:35|Error|Errore relativo al nodo: /feed/rights
+08:47:35|Error|Tipo di Errore: Il nodo non è presente
+08:47:35|Error|Errore relativo al nodo: /feed/updated
+08:47:35|Error|Tipo di Errore: Il nodo non è presente
+08:47:35|Error|Livello di errore: 3
+08:47:35|Error|Errore relativo al nodo: /feed/updated
+08:47:35|Error|Tipo di Errore: Il nodo non è presente
+08:47:35|Info|aperto file
+08:47:35|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='self']
+08:47:35|Error|Tipo di Errore: Il nodo non è presente
+08:47:35|Error|Livello di errore: 3
+08:47:35|Error|/OpenSearchDescription/Url[@rel='self']
+08:47:35|Error|Tipo di Errore: Il nodo non è presente
+08:47:35|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='results'][1]
+08:47:35|Error|Tipo di Errore: Il nodo non è presente
+08:47:35|Error|Livello di errore: 3
+08:47:35|Error|/OpenSearchDescription/Url[@rel='results']
+08:47:35|Error|Tipo di Errore: Il nodo non è presente
+08:47:35|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='describedby']
+08:47:35|Error|Tipo di Errore: Il nodo non è presente
+08:47:35|Error|Livello di errore: 3
+08:47:35|Error|/OpenSearchDescription/Url[@rel='describedby']
+08:47:35|Error|Tipo di Errore: Il nodo non è presente
+08:47:35|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='results'][last()]
+08:47:35|Error|Tipo di Errore: Il nodo non è presente
+08:47:35|Error|Livello di errore: 3
+08:47:35|Error|/OpenSearchDescription/Url[@rel='results'][last()]
+08:47:35|Error|Tipo di Errore: Il nodo non è presente
+08:47:35|Info|Nodo: /OpenSearchDescription/Language
+08:47:35|Info|Nessun errore
+08:47:35|Error|/OpenSearchDescription/Language
+08:47:35|Error|Tipo di Errore: Nessun errore
+10:21:32|Error|Errore relativo al nodo: /feed/title
+10:21:32|Error|Tipo di Errore: Il nodo non è presente
+10:21:32|Error|Livello di errore: 2
+10:21:32|Error|Errore relativo al nodo: /feed/title
+10:21:32|Error|Tipo di Errore: Il nodo non è presente
+10:21:32|Info|Nodo: /feed/subtitle
+10:21:32|Info|Nessun errore
+10:21:32|Error|Errore relativo al nodo: /feed/subtitle
+10:21:32|Error|Tipo di Errore: Nessun errore
+10:21:32|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+10:21:32|Error|Tipo di Errore: Il nodo non è presente
+10:21:32|Error|Livello di errore: 3
+10:21:32|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+10:21:32|Error|Tipo di Errore: Il nodo non è presente
+10:21:32|Error|Errore relativo al nodo: /feed/link[@rel='self']
+10:21:32|Error|Tipo di Errore: Il nodo non è presente
+10:21:32|Error|Livello di errore: 3
+10:21:32|Error|Errore relativo al nodo: /feed/link[@rel='self']
+10:21:32|Error|Tipo di Errore: Il nodo non è presente
+10:21:32|Error|Errore relativo al nodo: /feed/link[@rel='search']
+10:21:32|Error|Tipo di Errore: Il nodo non è unico
+10:21:32|Error|Livello di errore: 2
+10:21:32|Error|Errore relativo al nodo: /feed/link[@rel='search']
+10:21:32|Error|Tipo di Errore: Il nodo non è unico
+10:21:32|Error|Errore relativo al nodo: /feed/id
+10:21:32|Error|Tipo di Errore: Il nodo non è presente
+10:21:32|Error|Livello di errore: 3
+10:21:32|Error|Errore relativo al nodo: /feed/id
+10:21:32|Error|Tipo di Errore: Il nodo non è presente
+10:21:32|Error|Errore relativo al nodo: /feed/rights
+10:21:32|Error|Tipo di Errore: Il nodo non è presente
+10:21:32|Error|Livello di errore: 3
+10:21:32|Error|Errore relativo al nodo: /feed/rights
+10:21:32|Error|Tipo di Errore: Il nodo non è presente
+10:21:32|Error|Errore relativo al nodo: /feed/updated
+10:21:32|Error|Tipo di Errore: Il nodo non è presente
+10:21:32|Error|Livello di errore: 3
+10:21:32|Error|Errore relativo al nodo: /feed/updated
+10:21:32|Error|Tipo di Errore: Il nodo non è presente
+10:21:32|Info|aperto file
+10:21:32|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='self']
+10:21:32|Error|Tipo di Errore: Il nodo non è presente
+10:21:32|Error|Livello di errore: 3
+10:21:32|Error|/OpenSearchDescription/Url[@rel='self']
+10:21:32|Error|Tipo di Errore: Il nodo non è presente
+10:21:32|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='results'][1]
+10:21:32|Error|Tipo di Errore: Il nodo non è presente
+10:21:32|Error|Livello di errore: 3
+10:21:32|Error|/OpenSearchDescription/Url[@rel='results']
+10:21:32|Error|Tipo di Errore: Il nodo non è presente
+10:21:32|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='describedby']
+10:21:32|Error|Tipo di Errore: Il nodo non è presente
+10:21:32|Error|Livello di errore: 3
+10:21:32|Error|/OpenSearchDescription/Url[@rel='describedby']
+10:21:33|Error|Tipo di Errore: Il nodo non è presente
+10:21:33|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='results'][last()]
+10:21:33|Error|Tipo di Errore: Il nodo non è presente
+10:21:33|Error|Livello di errore: 3
+10:21:33|Error|/OpenSearchDescription/Url[@rel='results'][last()]
+10:21:33|Error|Tipo di Errore: Il nodo non è presente
+10:21:33|Info|Nodo: /OpenSearchDescription/Language
+10:21:33|Info|Nessun errore
+10:21:33|Error|/OpenSearchDescription/Language
+10:21:33|Error|Tipo di Errore: Nessun errore
+10:25:27|Error|Errore relativo al nodo: /feed/title
+10:25:27|Error|Tipo di Errore: Il nodo non è presente
+10:25:27|Error|Livello di errore: 2
+10:25:27|Error|Errore relativo al nodo: /feed/title
+10:25:27|Error|Tipo di Errore: Il nodo non è presente
+10:25:27|Info|Nodo: /feed/subtitle
+10:25:27|Info|Nessun errore
+10:25:27|Error|Errore relativo al nodo: /feed/subtitle
+10:25:27|Error|Tipo di Errore: Nessun errore
+10:25:27|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+10:25:27|Error|Tipo di Errore: Il nodo non è presente
+10:25:27|Error|Livello di errore: 3
+10:25:27|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+10:25:27|Error|Tipo di Errore: Il nodo non è presente
+10:25:27|Error|Errore relativo al nodo: /feed/link[@rel='self']
+10:25:27|Error|Tipo di Errore: Il nodo non è presente
+10:25:27|Error|Livello di errore: 3
+10:25:27|Error|Errore relativo al nodo: /feed/link[@rel='self']
+10:25:28|Error|Tipo di Errore: Il nodo non è presente
+10:25:28|Error|Errore relativo al nodo: /feed/link[@rel='search']
+10:25:28|Error|Tipo di Errore: Il nodo non è unico
+10:25:28|Error|Livello di errore: 2
+10:25:28|Error|Errore relativo al nodo: /feed/link[@rel='search']
+10:25:28|Error|Tipo di Errore: Il nodo non è unico
+10:25:28|Error|Errore relativo al nodo: /feed/id
+10:25:28|Error|Tipo di Errore: Il nodo non è presente
+10:25:28|Error|Livello di errore: 3
+10:25:28|Error|Errore relativo al nodo: /feed/id
+10:25:28|Error|Tipo di Errore: Il nodo non è presente
+10:25:28|Error|Errore relativo al nodo: /feed/rights
+10:25:28|Error|Tipo di Errore: Il nodo non è presente
+10:25:28|Error|Livello di errore: 3
+10:25:28|Error|Errore relativo al nodo: /feed/rights
+10:25:28|Error|Tipo di Errore: Il nodo non è presente
+10:25:28|Error|Errore relativo al nodo: /feed/updated
+10:25:28|Error|Tipo di Errore: Il nodo non è presente
+10:25:28|Error|Livello di errore: 3
+10:25:28|Error|Errore relativo al nodo: /feed/updated
+10:25:28|Error|Tipo di Errore: Il nodo non è presente
+10:25:28|Info|aperto file
+10:25:28|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='self']
+10:25:28|Error|Tipo di Errore: Il nodo non è presente
+10:25:28|Error|Livello di errore: 3
+10:25:28|Error|/OpenSearchDescription/Url[@rel='self']
+10:25:28|Error|Tipo di Errore: Il nodo non è presente
+10:25:28|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='results'][1]
+10:25:28|Error|Tipo di Errore: Il nodo non è presente
+10:25:28|Error|Livello di errore: 3
+10:25:28|Error|/OpenSearchDescription/Url[@rel='results']
+10:25:28|Error|Tipo di Errore: Il nodo non è presente
+10:25:28|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='describedby']
+10:25:28|Error|Tipo di Errore: Il nodo non è presente
+10:25:28|Error|Livello di errore: 3
+10:25:28|Error|/OpenSearchDescription/Url[@rel='describedby']
+10:25:28|Error|Tipo di Errore: Il nodo non è presente
+10:25:28|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='results'][last()]
+10:25:28|Error|Tipo di Errore: Il nodo non è presente
+10:25:28|Error|Livello di errore: 3
+10:25:28|Error|/OpenSearchDescription/Url[@rel='results'][last()]
+10:25:28|Error|Tipo di Errore: Il nodo non è presente
+10:25:28|Info|Nodo: /OpenSearchDescription/Language
+10:25:28|Info|Nessun errore
+10:25:28|Error|/OpenSearchDescription/Language
+10:25:28|Error|Tipo di Errore: Nessun errore
+10:25:31|Error|/feed/title-1
+10:25:32|Error|Errore relativo al nodo: /feed/title
+10:25:32|Error|Tipo di Errore: Il nodo non è presente
+10:25:32|Error|Livello di errore: 2
+10:25:32|Error|Errore relativo al nodo: /feed/title
+10:25:32|Error|Tipo di Errore: Il nodo non è presente
+10:25:32|Info|Nodo: /feed/subtitle
+10:25:32|Info|Nessun errore
+10:25:32|Error|Errore relativo al nodo: /feed/subtitle
+10:25:32|Error|Tipo di Errore: Nessun errore
+10:25:32|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+10:25:32|Error|Tipo di Errore: Il nodo non è presente
+10:25:32|Error|Livello di errore: 3
+10:25:32|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+10:25:32|Error|Tipo di Errore: Il nodo non è presente
+10:25:32|Error|Errore relativo al nodo: /feed/link[@rel='self']
+10:25:32|Error|Tipo di Errore: Il nodo non è presente
+10:25:32|Error|Livello di errore: 3
+10:25:32|Error|Errore relativo al nodo: /feed/link[@rel='self']
+10:25:32|Error|Tipo di Errore: Il nodo non è presente
+10:25:32|Error|Errore relativo al nodo: /feed/link[@rel='search']
+10:25:32|Error|Tipo di Errore: Il nodo non è unico
+10:25:32|Error|Livello di errore: 2
+10:25:32|Error|Errore relativo al nodo: /feed/link[@rel='search']
+10:25:32|Error|Tipo di Errore: Il nodo non è unico
+10:25:32|Error|Errore relativo al nodo: /feed/id
+10:25:32|Error|Tipo di Errore: Il nodo non è presente
+10:25:32|Error|Livello di errore: 3
+10:25:33|Error|Errore relativo al nodo: /feed/id
+10:25:33|Error|Tipo di Errore: Il nodo non è presente
+10:25:33|Error|Errore relativo al nodo: /feed/rights
+10:25:33|Error|Tipo di Errore: Il nodo non è presente
+10:25:33|Error|Livello di errore: 3
+10:25:33|Error|Errore relativo al nodo: /feed/rights
+10:25:33|Error|Tipo di Errore: Il nodo non è presente
+10:25:33|Error|Errore relativo al nodo: /feed/updated
+10:25:33|Error|Tipo di Errore: Il nodo non è presente
+10:25:33|Error|Livello di errore: 3
+10:25:33|Error|Errore relativo al nodo: /feed/updated
+10:25:33|Error|Tipo di Errore: Il nodo non è presente
+10:25:45|Info|aperto file
+10:25:45|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='self']
+10:25:45|Error|Tipo di Errore: Il nodo non è presente
+10:25:45|Error|Livello di errore: 3
+10:25:49|Info|aperto file
+10:25:49|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='self']
+10:25:49|Error|Tipo di Errore: Il nodo non è presente
+10:25:49|Error|Livello di errore: 3
+10:25:49|Error|/OpenSearchDescription/Url[@rel='self']
+10:25:49|Error|Tipo di Errore: Il nodo non è presente
+10:25:49|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='results'][1]
+10:25:49|Error|Tipo di Errore: Il nodo non è presente
+10:25:49|Error|Livello di errore: 3
+10:25:49|Error|/OpenSearchDescription/Url[@rel='results']
+10:25:49|Error|Tipo di Errore: Il nodo non è presente
+10:25:49|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='describedby']
+10:25:49|Error|Tipo di Errore: Il nodo non è presente
+10:25:49|Error|Livello di errore: 3
+10:25:49|Error|/OpenSearchDescription/Url[@rel='describedby']
+10:25:49|Error|Tipo di Errore: Il nodo non è presente
+10:25:49|Error|Errore relativo al nodo: /OpenSearchDescription/Url[@rel='results'][last()]
+10:25:49|Error|Tipo di Errore: Il nodo non è presente
+10:25:49|Error|Livello di errore: 3
+10:25:49|Error|/OpenSearchDescription/Url[@rel='results'][last()]
+10:25:49|Error|Tipo di Errore: Il nodo non è presente
+10:25:49|Info|Nodo: /OpenSearchDescription/Language
+10:25:49|Info|Nessun errore
+10:25:49|Error|/OpenSearchDescription/Language
+10:25:49|Error|Tipo di Errore: Nessun errore
+10:25:52|Error|Errore relativo al nodo: /feed/title
+10:25:52|Error|Tipo di Errore: Il nodo non è presente
+10:25:52|Error|Livello di errore: 2
+10:25:52|Error|Errore relativo al nodo: /feed/title
+10:25:52|Error|Tipo di Errore: Il nodo non è presente
+10:25:52|Info|Nodo: /feed/subtitle
+10:25:52|Info|Nessun errore
+10:25:52|Error|Errore relativo al nodo: /feed/subtitle
+10:25:52|Error|Tipo di Errore: Nessun errore
+10:25:52|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+10:25:52|Error|Tipo di Errore: Il nodo non è presente
+10:25:52|Error|Livello di errore: 3
+10:25:52|Error|Errore relativo al nodo: /feed/link[@rel='describedby']
+10:25:52|Error|Tipo di Errore: Il nodo non è presente
+10:25:52|Error|Errore relativo al nodo: /feed/link[@rel='self']
+10:25:52|Error|Tipo di Errore: Il nodo non è presente
+10:25:52|Error|Livello di errore: 3
+10:25:52|Error|Errore relativo al nodo: /feed/link[@rel='self']
+10:25:52|Error|Tipo di Errore: Il nodo non è presente
+10:25:52|Error|Errore relativo al nodo: /feed/link[@rel='search']
+10:25:52|Error|Tipo di Errore: Il nodo non è unico
+10:25:52|Error|Livello di errore: 2
+10:25:52|Error|Errore relativo al nodo: /feed/link[@rel='search']
+10:25:52|Error|Tipo di Errore: Il nodo non è unico
+10:25:52|Error|Errore relativo al nodo: /feed/id
+10:25:52|Error|Tipo di Errore: Il nodo non è presente
+10:25:52|Error|Livello di errore: 3
+10:25:52|Error|Errore relativo al nodo: /feed/id
+10:25:52|Error|Tipo di Errore: Il nodo non è presente
+10:25:52|Error|Errore relativo al nodo: /feed/rights
+10:25:52|Error|Tipo di Errore: Il nodo non è presente
+10:25:52|Error|Livello di errore: 3
+10:25:52|Error|Errore relativo al nodo: /feed/rights
+10:25:52|Error|Tipo di Errore: Il nodo non è presente
+10:25:52|Error|Errore relativo al nodo: /feed/updated
+10:25:52|Error|Tipo di Errore: Il nodo non è presente
+10:25:52|Error|Livello di errore: 3
+10:25:52|Error|Errore relativo al nodo: /feed/updated
+10:25:52|Error|Tipo di Errore: Il nodo non è presente
